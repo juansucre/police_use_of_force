@@ -1,0 +1,783 @@
+Incident_ID,ORI,Incident_Date_Str,Incident_Time_Str,City,County,State,Zip_Code,Multiple_Locations,On_K12_Campus,Arrest_Made,Crime_Report_Filed,Contact_Reason,In_Custody_Reason,Num_Involved_Civilians,Num_Involved_Officers
+URSUS-01-0000-2016-DWQ,CA0010000,7/3/2016,28,Hayward,Alameda County,CA,94544,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-01-0000-2016-FEC,CA0010000,11/20/2016,2233,San Leandro,Alameda County,CA,94578,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-01-0000-2016-MAJ,CA0010000,5/30/2016,1843,Dublin,Alameda County,CA,94568,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-01-0000-2016-PCD,CA0010000,6/30/2016,2245,Dublin,Alameda County,CA,94568,FALSE,FALSE,TRUE,TRUE,In Custody Event,Booked - Awaiting Trial,1,2
+URSUS-01-0000-2016-TMU,CA0010000,5/25/2016,1111,Hayward,Alameda County,CA,94545,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-01-0000-2016-TNR,CA0010000,11/25/2016,2315,Hayward,Alameda County,CA,94541,TRUE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-01-0000-2016-UBJ,CA0010000,1/4/2016,2221,San Leandro,Alameda County,CA,94578,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-01-0000-2016-VDW,CA0010000,12/23/2016,2244,Dublin,Alameda County,CA,94568,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-01-0200-2016-UNF,CA0010200,6/25/2016,925,Albany,Alameda County,CA,94706,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-01-0500-2016-JDM,CA0010500,6/1/2016,1333,Fremont,Alameda County,CA,94538,TRUE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,4
+URSUS-01-0500-2016-XHE,CA0010500,11/22/2016,105,Fremont,Alameda County,CA,94538,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-01-0600-2016-AKU,CA0010600,8/13/2016,1641,Hayward,Alameda County,CA,94544,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,4
+URSUS-01-0600-2016-PTD,CA0010600,12/11/2016,2130,Hayward,Alameda County,CA,94545,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-01-0600-2016-XKU,CA0010600,10/29/2016,2117,Hayward,Alameda County,CA,94544,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-01-0800-2016-DTE,CA0010800,1/31/2016,1508,Newark,Alameda County,CA,94560,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-01-0800-2016-YZT,CA0010800,3/11/2016,2152,Newark,Alameda County,CA,94560,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-01-1300-2016-HVM,CA0011300,1/18/2016,2220,Union City,Alameda County,CA,94587,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-01-1400-2016-NSE,CA0011400,12/13/2016,1641,Orinda,Alameda County,CA,94563,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,1
+URSUS-01-2100-2016-EDX,CA0012100,2/14/2016,2240,Hayward,Alameda County,CA,94541,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-04-0200-2016-DTH,CA0040200,9/4/2016,2148,Chico,Butte County,CA,95926,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-04-0200-2016-YTS,CA0040200,4/26/2016,1627,Chico,Butte County,CA,95928,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-04-0500-2016-CWM,CA0040500,1/2/2016,700,Paradise,Butte County,CA,95969,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-04-0500-2016-CYR,CA0040500,1/15/2016,1940,Paradise,Butte County,CA,95969,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-05-0000-2016-HUR,CA0050000,3/27/2016,1050,Railroad Flat,Calaveras County,CA,95245,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-05-0000-2016-WMV,CA0050000,10/5/2016,10,San Andreas,Calaveras County,CA,95249,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-07-0000-2016-BNX,CA0070000,4/11/2016,1909,Martinez,Contra Costa County,CA,94553,FALSE,FALSE,TRUE,TRUE,In Custody Event,Awaiting Booking,1,2
+URSUS-07-0000-2016-ENW,CA0070000,6/30/2016,1640,San Pablo,Contra Costa County,CA,94806,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-07-0000-2016-HDY,CA0070000,3/17/2016,2206,Byron,Contra Costa County,CA,94514,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,3
+URSUS-07-0000-2016-UQE,CA0070000,9/9/2016,2338,Pittsburg,Contra Costa County,CA,94565,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-07-0000-2016-YHS,CA0070000,7/1/2016,1957,San Ramon,Contra Costa County,CA,94582,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-07-0000-2016-ZRT,CA0070000,5/5/2016,938,Danville,Contra Costa County,CA,94526,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-07-0100-2016-JPY,CA0070100,5/4/2016,1752,Pittsburg,Contra Costa County,CA,94565,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-07-0100-2016-SUN,CA0070100,2/5/2016,312,Antioch,Contra Costa County,CA,94509,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-07-0100-2016-TZF,CA0070100,6/28/2016,233,Antioch,Contra Costa County,CA,94509,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-07-0100-2016-WYT,CA0070100,4/16/2016,12,Antioch,Contra Costa County,CA,94509,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-07-0400-2016-YPK,CA0070400,10/11/2016,1353,Concord,Contra Costa County,CA,94518,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-07-0800-2016-KYN,CA0070800,7/26/2016,1434,Pittsburg,Contra Costa County,CA,94565,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,2
+URSUS-07-0800-2016-MGT,CA0070800,5/17/2016,2112,Pittsburg,Contra Costa County,CA,94565,FALSE,FALSE,TRUE,TRUE,Call for Service,,3,1
+URSUS-07-0900-2016-FJF,CA0070900,4/1/2016,1903,Pleasant Hill,Contra Costa County,CA,94523,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,3
+URSUS-07-0900-2016-GNF,CA0070900,2/25/2016,849,Pleasant Hill,Contra Costa County,CA,94523,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-07-0900-2016-VVT,CA0070900,8/27/2016,2117,Pleasant Hill,Contra Costa County,CA,94523,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,2
+URSUS-07-1000-2016-FUS,CA0071000,5/3/2016,2150,Richmond,Contra Costa County,CA,94804,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-07-1000-2016-HRQ,CA0071000,3/23/2016,1954,Richmond,Contra Costa County,CA,94801,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-07-1000-2016-MTB,CA0071000,3/28/2016,111,Richmond,Contra Costa County,CA,94804,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-07-1000-2016-NNX,CA0071000,7/6/2016,1209,Richmond,Contra Costa County,CA,94801,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-07-1000-2016-TKM,CA0071000,5/22/2016,1801,Richmond,Contra Costa County,CA,94801,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,2,2
+URSUS-07-1000-2016-UYW,CA0071000,12/15/2016,2116,Richmond,Contra Costa County,CA,94804,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-07-1000-2016-VBS,CA0071000,7/27/2016,1515,Richmond,Contra Costa County,CA,94801,TRUE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-07-1000-2016-VJP,CA0071000,4/23/2016,1434,Albany,Alameda County,CA,94706,TRUE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-07-1000-2016-YGG,CA0071000,10/9/2016,2331,Richmond,Contra Costa County,CA,94804,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-07-1000-2016-ZDK,CA0071000,4/13/2016,1706,Richmond,Contra Costa County,CA,94801,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-07-1200-2016-MKF,CA0071200,8/25/2016,2216,Walnut Creek,Contra Costa County,CA,94596,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-08-013G-2016-XKA,CA008013G,5/19/2016,2330,Gasquet,Del Norte County,CA,95543,FALSE,FALSE,FALSE,TRUE,In Custody Event,Other,1,1
+URSUS-09-0000-2016-YEQ,CA0090000,11/18/2016,240,Cameron Park,El Dorado County,CA,95682,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-10-0000-2016-APP,CA0100000,12/21/2016,725,Coalinga,Fresno County,CA,93210,FALSE,FALSE,FALSE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-10-0000-2016-KQS,CA0100000,9/3/2016,839,Fresno,Fresno County,CA,93721,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-10-0000-2016-KZT,CA0100000,3/7/2016,2326,Fresno,Fresno County,CA,93722,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-10-0100-2016-RHF,CA0100100,1/6/2016,2114,Clovis,Fresno County,CA,93612,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-10-0100-2016-WGX,CA0100100,7/7/2016,1151,Clovis,Fresno County,CA,93612,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-10-0100-2016-ZVG,CA0100100,6/3/2016,631,Clovis,Fresno County,CA,93612,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-10-0500-2016-BXH,CA0100500,1/23/2016,1823,Fresno,Fresno County,CA,93705,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-10-0500-2016-DTD,CA0100500,4/10/2016,19,Fresno,Fresno County,CA,93704,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-10-0500-2016-EEE,CA0100500,3/12/2016,408,Fresno,Fresno County,CA,93727,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-10-0500-2016-ETH,CA0100500,3/21/2016,1750,Fresno,Fresno County,CA,93726,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-10-0500-2016-GXQ,CA0100500,1/27/2016,1144,Fresno,Fresno County,CA,93727,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,2,2
+URSUS-10-0500-2016-HAQ,CA0100500,2/2/2016,1230,Fresno,Fresno County,CA,93703,FALSE,TRUE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-10-0500-2016-HMX,CA0100500,10/19/2016,1139,Fresno,Fresno County,CA,93725,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-10-0500-2016-JAD,CA0100500,6/25/2016,1520,Fresno,Fresno County,CA,93727,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-10-0500-2016-JSM,CA0100500,1/12/2016,1600,Fresno,Fresno County,CA,93728,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-10-0500-2016-KFJ,CA0100500,10/9/2016,1610,Fresno,Fresno County,CA,93701,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-10-0500-2016-MDU,CA0100500,8/20/2016,2057,Fresno,Fresno County,CA,93706,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-10-0500-2016-NPA,CA0100500,2/26/2016,1714,Fresno,Fresno County,CA,93702,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-10-0500-2016-QGP,CA0100500,7/23/2016,2050,Fresno,Fresno County,CA,93725,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-10-0500-2016-SHW,CA0100500,3/23/2016,1548,Fresno,Fresno County,CA,93703,FALSE,FALSE,FALSE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,1
+URSUS-10-0500-2016-TTU,CA0100500,10/19/2016,1408,Fresno,Fresno County,CA,93727,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-10-0500-2016-WSJ,CA0100500,7/18/2016,1915,Fresno,Fresno County,CA,93728,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,3
+URSUS-10-0500-2016-ZUT,CA0100500,2/19/2016,1142,Fresno,Fresno County,CA,93728,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-10-0600-2016-XHU,CA0100600,5/23/2016,2041,Huron,Fresno County,CA,93234,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-10-1100-2016-PAR,CA0101100,3/21/2016,16,Parlier,Fresno County,CA,93648,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-11-0100-2016-PAX,CA0110100,4/13/2016,1158,Orland,Glenn County,CA,95963,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-11-0100-2016-TBK,CA0110100,3/3/2016,1330,Orland,Glenn County,CA,95963,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-12-0000-2016-EWA,CA0120000,10/27/2016,337,Hoopa,Humboldt County,CA,95546,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-12-0000-2016-RKX,CA0120000,8/17/2016,902,McKinleyville,Humboldt County,CA,95519,TRUE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-12-0100-2016-DYT,CA0120100,5/18/2016,1843,Arcata,Humboldt County,CA,95521,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-12-0300-2016-CZA,CA0120300,12/6/2016,1651,Eureka,Humboldt County,CA,95501,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-13-0100-2016-MFA,CA0130100,7/5/2016,140,Brawley,Imperial County,CA,92227,FALSE,FALSE,TRUE,TRUE,In Custody Event,Awaiting Booking,1,1
+URSUS-13-0100-2016-WJS,CA0130100,12/19/2016,721,Brawley,Imperial County,CA,92227,FALSE,FALSE,FALSE,TRUE,Welfare Check,,1,3
+URSUS-14-0000-2016-YJV,CA0140000,8/26/2016,323,Bishop,Inyo County,CA,93514,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,1
+URSUS-15-0000-2016-JWU,CA0150000,12/11/2016,2232,Tehachapi,Kern County,CA,93561,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-15-0000-2016-PYA,CA0150000,7/19/2016,15,Rosamond,Kern County,CA,93560,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-15-013G-2016-QHH,CA015013G,3/25/2016,740,Kernville,Kern County,CA,93238,FALSE,FALSE,FALSE,FALSE,In Custody Event,Sentenced,1,1
+URSUS-15-0200-2016-APB,CA0150200,2/12/2016,1700,Bakersfield,Kern County,CA,93309,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-15-0200-2016-BJN,CA0150200,7/2/2016,918,Bakersfield,Kern County,CA,93307,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,3
+URSUS-15-0200-2016-BMZ,CA0150200,6/25/2016,1356,Bakersfield,Kern County,CA,93307,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,2
+URSUS-15-0200-2016-BRH,CA0150200,10/2/2016,2351,Bakersfield,Kern County,CA,93304,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-15-0200-2016-BYB,CA0150200,2/22/2016,928,Bakersfield,Kern County,CA,93301,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-15-0200-2016-CBX,CA0150200,2/5/2016,1258,Bakersfield,Kern County,CA,93304,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-15-0200-2016-CEJ,CA0150200,3/31/2016,1100,Bakersfield,Kern County,CA,93313,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-15-0200-2016-CQP,CA0150200,8/18/2016,321,Bakersfield,Kern County,CA,93307,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,5
+URSUS-15-0200-2016-CRQ,CA0150200,10/17/2016,1423,Bakersfield,Kern County,CA,93307,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-15-0200-2016-DCA,CA0150200,3/5/2016,940,Bakersfield,Kern County,CA,93304,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-15-0200-2016-DGR,CA0150200,5/3/2016,143,Bakersfield,Kern County,CA,93304,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-15-0200-2016-DXE,CA0150200,12/19/2016,2338,Bakersfield,Kern County,CA,93306,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-15-0200-2016-EGR,CA0150200,7/11/2016,513,Bakersfield,Kern County,CA,93305,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-15-0200-2016-GXJ,CA0150200,12/12/2016,37,Bakersfield,Kern County,CA,93313,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-15-0200-2016-HEH,CA0150200,4/19/2016,350,Bakersfield,Kern County,CA,93309,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-15-0200-2016-HMN,CA0150200,8/12/2016,1819,Bakersfield,Kern County,CA,93301,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-15-0200-2016-JBV,CA0150200,5/1/2016,1913,Bakersfield,Kern County,CA,93307,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-15-0200-2016-KSN,CA0150200,6/1/2016,944,Bakersfield,Kern County,CA,93308,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-15-0200-2016-NHS,CA0150200,9/25/2016,42,Bakersfield,Kern County,CA,93309,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-15-0200-2016-SYX,CA0150200,7/1/2016,1640,Bakersfield,Kern County,CA,93304,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,2
+URSUS-15-0200-2016-SZM,CA0150200,9/7/2016,1643,Bakersfield,Kern County,CA,93309,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-15-0200-2016-TEE,CA0150200,4/24/2016,630,Bakersfield,Kern County,CA,93307,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,5
+URSUS-15-0200-2016-TZN,CA0150200,2/24/2016,1243,Bakersfield,Kern County,CA,93301,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-15-0200-2016-VMK,CA0150200,2/9/2016,1551,Bakersfield,Kern County,CA,93305,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,5
+URSUS-15-0200-2016-VYM,CA0150200,12/17/2016,215,Bakersfield,Kern County,CA,93313,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-15-0200-2016-WFP,CA0150200,12/21/2016,111,Bakersfield,Kern County,CA,93308,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-15-0200-2016-WRC,CA0150200,12/17/2016,2330,Bakersfield,Kern County,CA,93305,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-15-0200-2016-WVZ,CA0150200,2/9/2016,2055,Bakersfield,Kern County,CA,93314,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,2
+URSUS-15-0200-2016-YVX,CA0150200,5/10/2016,1404,Bakersfield,Kern County,CA,93309,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-15-0300-2016-DMT,CA0150300,2/18/2016,2035,Delano,Kern County,CA,93215,FALSE,FALSE,TRUE,TRUE,In Custody Event,Awaiting Booking,1,3
+URSUS-15-0700-2016-MAD,CA0150700,9/21/2016,142,Shafter,Kern County,CA,93263,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-15-0800-2016-TAK,CA0150800,12/15/2016,2229,Taft,Kern County,CA,93268,FALSE,FALSE,TRUE,TRUE,Call for Service,,2,3
+URSUS-16-0000-2016-BKV,CA0160000,11/8/2016,741,Hanford,Kings County,CA,93230,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-16-0000-2016-FNQ,CA0160000,3/31/2016,1250,Stratford,Kings County,CA,93266,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-16-0000-2016-WDS,CA0160000,1/8/2016,1355,Hanford,Kings County,CA,93230,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-17-0200-2016-NEU,CA0170200,3/29/2016,20,Clearlake,Lake County,CA,95422,FALSE,FALSE,TRUE,TRUE,Civil Assembly,,1,1
+URSUS-18-0100-2016-JHV,CA0180100,9/16/2016,428,Susanville,Lassen County,CA,96130,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-19-0000-2016-AJG,CA0190000,2/21/2016,340,Palmdale,Los Angeles County,CA,93550,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-19-0000-2016-AQC,CA0190000,1/14/2016,1945,Santa Clarita,Los Angeles County,CA,91351,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-0000-2016-BFQ,CA0190000,10/5/2016,1224,Lancaster,Los Angeles County,CA,93536,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-0000-2016-CFX,CA0190000,8/7/2016,1219,Lennox,Los Angeles County,CA,90304,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-19-0000-2016-CMT,CA0190000,5/31/2016,19,Maywood,Los Angeles County,CA,90270,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-19-0000-2016-DAY,CA0190000,4/27/2016,630,Los Angeles,Los Angeles County,CA,91345,FALSE,FALSE,TRUE,TRUE,In Custody Event,In Transit,1,4
+URSUS-19-0000-2016-DBJ,CA0190000,12/15/2016,2300,Hacienda Heights,Los Angeles County,CA,91745,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,6
+URSUS-19-0000-2016-DXN,CA0190000,2/14/2016,350,East Los Angeles,Los Angeles County,CA,90022,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-0000-2016-DZT,CA0190000,12/27/2016,1415,Compton,Los Angeles County,CA,90220,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-19-0000-2016-EFK,CA0190000,3/30/2016,1221,Palmdale,Los Angeles County,CA,93551,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,5
+URSUS-19-0000-2016-EMW,CA0190000,9/8/2016,1811,Lomita,Los Angeles County,CA,90717,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-0000-2016-EUT,CA0190000,2/10/2016,1153,Compton,Los Angeles County,CA,90221,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,3
+URSUS-19-0000-2016-EXQ,CA0190000,10/7/2016,909,Norwalk,Los Angeles County,CA,90650,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-19-0000-2016-GGH,CA0190000,3/4/2016,1521,Inglewood,Los Angeles County,CA,90304,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-0000-2016-HAP,CA0190000,12/6/2016,1950,Cudahy,Los Angeles County,CA,90201,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-0000-2016-HKJ,CA0190000,10/31/2016,1205,Chatsworth,Los Angeles County,CA,91311,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-19-0000-2016-JHF,CA0190000,7/28/2016,529,Compton,Los Angeles County,CA,90222,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,2,4
+URSUS-19-0000-2016-JNV,CA0190000,12/12/2016,2140,Los Angeles,Los Angeles County,CA,90044,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-0000-2016-JPM,CA0190000,12/1/2016,1511,Paramount,Los Angeles County,CA,90723,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-19-0000-2016-JSC,CA0190000,8/1/2016,1636,Pico Rivera,Los Angeles County,CA,90660,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,4
+URSUS-19-0000-2016-KKN,CA0190000,7/24/2016,330,South El Monte,Los Angeles County,CA,91733,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-19-0000-2016-KVS,CA0190000,3/5/2016,2309,Los Angeles,Los Angeles County,CA,90044,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-0000-2016-KZB,CA0190000,8/22/2016,945,Hawaiian Gardens,Los Angeles County,CA,90716,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-0000-2016-MAQ,CA0190000,6/23/2016,2249,Bellflower,Los Angeles County,CA,90706,TRUE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,10
+URSUS-19-0000-2016-MDB,CA0190000,9/1/2016,1744,Los Angeles,Los Angeles County,CA,90001,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-19-0000-2016-MEM,CA0190000,1/4/2016,2151,Compton,Los Angeles County,CA,90220,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-19-0000-2016-MJP,CA0190000,6/24/2016,2116,Los Angeles,Los Angeles County,CA,90002,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,6
+URSUS-19-0000-2016-MNS,CA0190000,8/18/2016,1100,Los Angeles,Los Angeles County,CA,90033,FALSE,FALSE,TRUE,TRUE,In Custody Event,Booked - No Charges Filed,1,1
+URSUS-19-0000-2016-NHC,CA0190000,12/17/2016,109,East Los Angeles,Los Angeles County,CA,90022,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-19-0000-2016-NMR,CA0190000,3/16/2016,425,Los Angeles,Los Angeles County,CA,90001,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-19-0000-2016-NNA,CA0190000,12/24/2016,1645,Pico Rivera,Los Angeles County,CA,90660,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-19-0000-2016-NTK,CA0190000,11/22/2016,912,La Mirada,Los Angeles County,CA,90638,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,3
+URSUS-19-0000-2016-NYS,CA0190000,5/25/2016,1613,Compton,Los Angeles County,CA,90220,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,5
+URSUS-19-0000-2016-NZA,CA0190000,8/31/2016,1025,South El Monte,Los Angeles County,CA,91733,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-0000-2016-QRM,CA0190000,1/21/2016,450,Santa Clarita,Los Angeles County,CA,91351,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,7
+URSUS-19-0000-2016-QUM,CA0190000,8/22/2016,2022,La Puente,Los Angeles County,CA,91748,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,7
+URSUS-19-0000-2016-QZQ,CA0190000,8/25/2016,2028,Compton,Los Angeles County,CA,90220,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-0000-2016-QZV,CA0190000,10/4/2016,1255,Santa Monica,Los Angeles County,CA,90401,FALSE,FALSE,TRUE,TRUE,Ambush - No warning,,1,2
+URSUS-19-0000-2016-RKP,CA0190000,1/12/2016,1745,Lancaster,Los Angeles County,CA,93534,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,2
+URSUS-19-0000-2016-SPQ,CA0190000,7/14/2016,120,Bellflower,Los Angeles County,CA,90706,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-19-0000-2016-STH,CA0190000,8/17/2016,1449,Panorama City,Los Angeles County,CA,91402,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-0000-2016-TKP,CA0190000,3/8/2016,1701,Lancaster,Los Angeles County,CA,93534,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,7
+URSUS-19-0000-2016-UBF,CA0190000,3/30/2016,1525,East Los Angeles,Los Angeles County,CA,90022,FALSE,FALSE,FALSE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-19-0000-2016-VAU,CA0190000,6/11/2016,1430,Maywood,Los Angeles County,CA,90270,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-19-0000-2016-VFZ,CA0190000,7/9/2016,1556,Torrance,Los Angeles County,CA,90502,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,7
+URSUS-19-0000-2016-VJQ,CA0190000,8/2/2016,2100,Castaic,Los Angeles County,CA,91384,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-0000-2016-WQR,CA0190000,9/14/2016,1400,Palmdale,Los Angeles County,CA,93550,FALSE,FALSE,TRUE,TRUE,In Custody Event,In Transit,1,1
+URSUS-19-0000-2016-XSF,CA0190000,2/24/2016,1714,Norwalk,Los Angeles County,CA,90650,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-0000-2016-XZK,CA0190000,3/18/2016,1446,Rowland Heights,Los Angeles County,CA,91748,FALSE,TRUE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-0000-2016-YJZ,CA0190000,7/21/2016,36,Lancaster,Los Angeles County,CA,93534,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-19-0000-2016-YKP,CA0190000,9/13/2016,450,San Gabriel,Los Angeles County,CA,91775,TRUE,FALSE,FALSE,TRUE,Call for Service,,1,4
+URSUS-19-0000-2016-ZBP,CA0190000,7/12/2016,1239,El Monte,Los Angeles County,CA,91733,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-19-0000-2016-ZMV,CA0190000,2/11/2016,1842,Lancaster,Los Angeles County,CA,93535,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,3
+URSUS-19-0000-2016-ZQV,CA0190000,2/20/2016,2125,Paramount,Los Angeles County,CA,90723,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,2,3
+URSUS-19-0000-2016-ZYU,CA0190000,4/9/2016,2345,Palmdale,Los Angeles County,CA,93552,FALSE,FALSE,TRUE,TRUE,Call for Service,,3,2
+URSUS-19-0000-2016-ZYX,CA0190000,9/11/2016,2314,Palmdale,Los Angeles County,CA,93550,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,2
+URSUS-19-0100-2016-AHK,CA0190100,10/9/2016,435,South Pasadena,Los Angeles County,CA,91030,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-19-0500-2016-YQM,CA0190500,11/8/2016,1401,Azusa,Los Angeles County,CA,91702,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,5
+URSUS-19-0700-2016-GMT,CA0190700,7/7/2016,819,Bell,Los Angeles County,CA,90201,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,3
+URSUS-19-1000-2016-ETS,CA0191000,5/22/2016,2218,Beverly Hills,Los Angeles County,CA,90210,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-1000-2016-KTT,CA0191000,10/13/2016,910,Beverly Hills,Los Angeles County,CA,90212,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-19-1200-2016-JTZ,CA0191200,10/4/2016,1927,Burbank,Los Angeles County,CA,91506,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-1200-2016-WWZ,CA0191200,6/24/2016,10,Burbank,Los Angeles County,CA,91505,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,3
+URSUS-19-1800-2016-QAK,CA0191800,11/11/2016,350,Culver City,Los Angeles County,CA,90232,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-2000-2016-MQH,CA0192000,9/9/2016,118,Downey,Los Angeles County,CA,90242,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-19-2200-2016-WKC,CA0192200,12/23/2016,2115,El Monte,Los Angeles County,CA,91732,TRUE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,3
+URSUS-19-2400-2016-UPZ,CA0192400,2/21/2016,321,Gardena,Los Angeles County,CA,90248,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-19-2500-2016-EDF,CA0192500,12/2/2016,102,Glendale,Los Angeles County,CA,91214,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-2600-2016-EYJ,CA0192600,10/8/2016,1933,Glendora,Los Angeles County,CA,91740,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-19-2600-2016-PXV,CA0192600,10/23/2016,1230,Glendora,Los Angeles County,CA,91740,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-19-2600-2016-VVQ,CA0192600,6/10/2016,1008,San Dimas,Los Angeles County,CA,91773,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-19-2600-2016-XCT,CA0192600,9/20/2016,1220,Covina,Los Angeles County,CA,91724,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,1
+URSUS-19-2800-2016-PMW,CA0192800,11/19/2016,1622,Hawthorne,Los Angeles County,CA,90250,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-2900-2016-EYF,CA0192900,7/24/2016,2004,Hermosa Beach,Los Angeles County,CA,90254,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-2900-2016-YXX,CA0192900,11/5/2016,123,Hermosa Beach,Los Angeles County,CA,90254,TRUE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,2
+URSUS-19-3100-2016-PRT,CA0193100,9/1/2016,1352,Huntington Park,Los Angeles County,CA,90255,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-19-3100-2016-UDW,CA0193100,4/15/2016,2150,Commerce,Los Angeles County,CA,90040,FALSE,FALSE,FALSE,FALSE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,2
+URSUS-19-3300-2016-RDA,CA0193300,2/21/2016,316,Inglewood,Los Angeles County,CA,90301,FALSE,FALSE,FALSE,TRUE,Call for Service,,2,5
+URSUS-19-4100-2016-AUR,CA0194100,4/9/2016,1503,Long Beach,Los Angeles County,CA,90813,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-19-4100-2016-CHB,CA0194100,10/20/2016,2201,Long Beach,Los Angeles County,CA,90803,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-19-4100-2016-CQT,CA0194100,5/5/2016,2346,Long Beach,Los Angeles County,CA,90805,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,6
+URSUS-19-4100-2016-CWN,CA0194100,1/20/2016,1156,Long Beach,Los Angeles County,CA,90813,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-19-4100-2016-EKV,CA0194100,2/10/2016,1557,Long Beach,Los Angeles County,CA,90806,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4100-2016-EYF,CA0194100,6/28/2016,1101,Long Beach,Los Angeles County,CA,90804,FALSE,FALSE,FALSE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,3
+URSUS-19-4100-2016-HNT,CA0194100,5/31/2016,1212,Long Beach,Los Angeles County,CA,90802,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,4
+URSUS-19-4100-2016-JBG,CA0194100,6/25/2016,500,Long Beach,Los Angeles County,CA,90813,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,5
+URSUS-19-4100-2016-JJB,CA0194100,9/4/2016,2114,Long Beach,Los Angeles County,CA,90804,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-19-4100-2016-JMT,CA0194100,5/7/2016,1654,Long Beach,Los Angeles County,CA,90806,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,6
+URSUS-19-4100-2016-JQA,CA0194100,7/27/2016,1200,Long Beach,Los Angeles County,CA,90814,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-19-4100-2016-NKD,CA0194100,8/14/2016,2338,Long Beach,Los Angeles County,CA,90813,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-4100-2016-PHP,CA0194100,10/7/2016,1119,Los Angeles,Los Angeles County,CA,90744,FALSE,FALSE,FALSE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,2
+URSUS-19-4100-2016-PWE,CA0194100,3/8/2016,2355,Long Beach,Los Angeles County,CA,90804,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-4100-2016-QGR,CA0194100,4/10/2016,1900,Long Beach,Los Angeles County,CA,90803,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-19-4100-2016-SGH,CA0194100,9/11/2016,1533,Long Beach,Los Angeles County,CA,90806,TRUE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,2,2
+URSUS-19-4100-2016-SNP,CA0194100,3/10/2016,1823,Long Beach,Los Angeles County,CA,90805,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4100-2016-WWH,CA0194100,5/16/2016,1936,Long Beach,Los Angeles County,CA,90807,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-4100-2016-XYU,CA0194100,5/15/2016,2305,Long Beach,Los Angeles County,CA,90814,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-19-4100-2016-YQQ,CA0194100,9/20/2016,1412,Long Beach,Los Angeles County,CA,90802,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-4100-2016-YVE,CA0194100,3/12/2016,130,Long Beach,Los Angeles County,CA,90803,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-19-4200-2016-AAA,CA0194200,7/26/2016,430,Eastvale,Riverside County,CA,91752,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,3,1
+URSUS-19-4200-2016-AFX,CA0194200,12/17/2016,1917,Los Angeles,Los Angeles County,CA,90006,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-4200-2016-AGJ,CA0194200,12/20/2016,1016,Los Angeles,Los Angeles County,CA,90011,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-19-4200-2016-AKM,CA0194200,12/17/2016,720,Los Angeles,Los Angeles County,CA,90046,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-4200-2016-AMH,CA0194200,4/11/2016,205,Los Angeles,Los Angeles County,CA,90272,TRUE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,11
+URSUS-19-4200-2016-ATU,CA0194200,5/15/2016,728,Los Angeles,Los Angeles County,CA,90044,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-4200-2016-ATV,CA0194200,8/9/2016,212,Los Angeles,Los Angeles County,CA,90042,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,2,1
+URSUS-19-4200-2016-AVP,CA0194200,7/1/2016,748,Los Angeles,Los Angeles County,CA,90007,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,6
+URSUS-19-4200-2016-AVY,CA0194200,8/5/2016,700,Los Angeles,Los Angeles County,CA,91343,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-4200-2016-BEU,CA0194200,8/2/2016,100,Los Angeles,Los Angeles County,CA,90027,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-4200-2016-BGC,CA0194200,9/25/2016,1920,Los Angeles,Los Angeles County,CA,90008,FALSE,FALSE,TRUE,FALSE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4200-2016-BPF,CA0194200,8/3/2016,413,Los Angeles,Los Angeles County,CA,90015,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-19-4200-2016-BYX,CA0194200,4/3/2016,345,Los Angeles,Los Angeles County,CA,90017,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-19-4200-2016-CHW,CA0194200,9/22/2016,350,Carson,Los Angeles County,CA,90745,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-4200-2016-CMA,CA0194200,7/19/2016,524,Los Angeles,Los Angeles County,CA,90019,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-4200-2016-CPT,CA0194200,8/16/2016,1533,Los Angeles,Los Angeles County,CA,90003,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4200-2016-CRB,CA0194200,11/15/2016,1400,Los Angeles,Los Angeles County,CA,90004,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-19-4200-2016-CSX,CA0194200,5/6/2016,1829,Los Angeles,Los Angeles County,CA,90731,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-19-4200-2016-DDT,CA0194200,1/4/2016,1525,Los Angeles,Los Angeles County,CA,91352,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,2
+URSUS-19-4200-2016-DHS,CA0194200,10/22/2016,104,Los Angeles,Los Angeles County,CA,91403,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,11
+URSUS-19-4200-2016-DNU,CA0194200,4/29/2016,1352,Los Angeles,Los Angeles County,CA,90044,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,2,1
+URSUS-19-4200-2016-DTS,CA0194200,11/7/2016,1653,Los Angeles,Los Angeles County,CA,90057,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,2,2
+URSUS-19-4200-2016-DXF,CA0194200,1/16/2016,1420,Los Angeles,Los Angeles County,CA,90046,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-19-4200-2016-EBJ,CA0194200,10/4/2016,1644,Los Angeles,Los Angeles County,CA,90043,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4200-2016-EVG,CA0194200,4/23/2016,735,Los Angeles,Los Angeles County,CA,90059,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,5,6
+URSUS-19-4200-2016-FPC,CA0194200,4/30/2016,2149,Los Angeles,Los Angeles County,CA,91343,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-19-4200-2016-FTN,CA0194200,9/23/2016,1830,Los Angeles,Los Angeles County,CA,90016,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-19-4200-2016-GKX,CA0194200,3/14/2016,312,Los Angeles,Los Angeles County,CA,90012,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-4200-2016-HAD,CA0194200,1/2/2016,1353,Los Angeles,Los Angeles County,CA,90061,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,5
+URSUS-19-4200-2016-JFA,CA0194200,3/6/2016,2054,Los Angeles,Los Angeles County,CA,90032,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-19-4200-2016-JGK,CA0194200,3/15/2016,1016,San Gabriel,Los Angeles County,CA,91775,FALSE,FALSE,TRUE,FALSE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,4,1
+URSUS-19-4200-2016-KTJ,CA0194200,7/6/2016,1513,Covina,Los Angeles County,CA,91722,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-19-4200-2016-KVJ,CA0194200,1/17/2016,1749,Los Angeles,Los Angeles County,CA,91343,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-19-4200-2016-MKE,CA0194200,4/20/2016,2325,Los Angeles,Los Angeles County,CA,90026,FALSE,FALSE,TRUE,FALSE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4200-2016-MTR,CA0194200,8/9/2016,1748,Los Angeles,Los Angeles County,CA,90003,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-19-4200-2016-MWU,CA0194200,5/13/2016,2030,Los Angeles,Los Angeles County,CA,90023,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-4200-2016-NCH,CA0194200,2/6/2016,2245,Los Angeles,Los Angeles County,CA,90023,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-4200-2016-NRD,CA0194200,12/30/2016,1923,Los Angeles,Los Angeles County,CA,90004,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-4200-2016-NSS,CA0194200,12/30/2016,1630,Los Angeles,Los Angeles County,CA,90002,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-19-4200-2016-NUJ,CA0194200,10/23/2016,1255,Los Angeles,Los Angeles County,CA,90026,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4200-2016-NVZ,CA0194200,12/24/2016,0,Los Angeles,Los Angeles County,CA,90020,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-4200-2016-NWK,CA0194200,6/26/2016,1858,Los Angeles,Los Angeles County,CA,90011,FALSE,FALSE,TRUE,FALSE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4200-2016-NXX,CA0194200,8/1/2016,1834,Los Angeles,Los Angeles County,CA,90028,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-19-4200-2016-NYP,CA0194200,9/27/2016,1024,Los Angeles,Los Angeles County,CA,90017,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,5
+URSUS-19-4200-2016-PCR,CA0194200,12/18/2016,2024,Los Angeles,Los Angeles County,CA,90047,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4200-2016-PGC,CA0194200,4/10/2016,2027,Los Angeles,Los Angeles County,CA,90033,FALSE,FALSE,FALSE,FALSE,Call for Service,,1,1
+URSUS-19-4200-2016-PVJ,CA0194200,7/25/2016,2305,Los Angeles,Los Angeles County,CA,90059,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,2,3
+URSUS-19-4200-2016-QAB,CA0194200,8/22/2016,1905,Los Angeles,Los Angeles County,CA,91342,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-19-4200-2016-QAM,CA0194200,6/26/2016,1913,Los Angeles,Los Angeles County,CA,91331,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4200-2016-QDF,CA0194200,8/27/2016,2030,Los Angeles,Los Angeles County,CA,90028,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,7
+URSUS-19-4200-2016-RFN,CA0194200,9/7/2016,1851,Los Angeles,Los Angeles County,CA,90003,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-19-4200-2016-RFZ,CA0194200,3/15/2016,619,Los Angeles,Los Angeles County,CA,90061,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4200-2016-RHU,CA0194200,9/28/2016,1531,Los Angeles,Los Angeles County,CA,90033,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-19-4200-2016-RKF,CA0194200,7/28/2016,1910,Los Angeles,Los Angeles County,CA,90063,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,2,2
+URSUS-19-4200-2016-SDB,CA0194200,2/20/2016,214,Los Angeles,Los Angeles County,CA,90731,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-19-4200-2016-SDS,CA0194200,3/1/2016,2220,Los Angeles,Los Angeles County,CA,90062,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-19-4200-2016-SKY,CA0194200,6/10/2016,2027,Los Angeles,Los Angeles County,CA,90043,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4200-2016-STB,CA0194200,11/8/2016,1507,Los Angeles,Los Angeles County,CA,90028,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,7
+URSUS-19-4200-2016-TCU,CA0194200,7/25/2016,2040,Los Angeles,Los Angeles County,CA,90012,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-19-4200-2016-TKK,CA0194200,10/2/2016,1700,Los Angeles,Los Angeles County,CA,90011,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-19-4200-2016-TQT,CA0194200,5/4/2016,531,Los Angeles,Los Angeles County,CA,90028,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,2,1
+URSUS-19-4200-2016-UGW,CA0194200,4/6/2016,200,Los Angeles,Los Angeles County,CA,91342,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,14
+URSUS-19-4200-2016-UNM,CA0194200,12/10/2016,100,Los Angeles,Los Angeles County,CA,90028,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-19-4200-2016-URJ,CA0194200,3/1/2016,625,Los Angeles,Los Angeles County,CA,90018,FALSE,FALSE,FALSE,TRUE,Ambush - No warning,,1,1
+URSUS-19-4200-2016-VBE,CA0194200,10/1/2016,1300,Los Angeles,Los Angeles County,CA,90047,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4200-2016-VBP,CA0194200,8/5/2016,2210,Los Angeles,Los Angeles County,CA,90004,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-19-4200-2016-VTW,CA0194200,1/30/2016,1504,Los Angeles,Los Angeles County,CA,90004,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4200-2016-VWV,CA0194200,7/20/2016,225,Los Angeles,Los Angeles County,CA,90057,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,6
+URSUS-19-4200-2016-WCP,CA0194200,11/28/2016,1302,Los Angeles,Los Angeles County,CA,90011,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4200-2016-WDE,CA0194200,9/28/2016,20,Los Angeles,Los Angeles County,CA,90066,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-19-4200-2016-XRF,CA0194200,2/14/2016,1500,Los Angeles,Los Angeles County,CA,91405,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,4
+URSUS-19-4200-2016-XST,CA0194200,1/17/2016,136,Los Angeles,Los Angeles County,CA,91040,FALSE,FALSE,TRUE,FALSE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-19-4200-2016-XZG,CA0194200,12/27/2016,2223,Los Angeles,Los Angeles County,CA,90011,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,4
+URSUS-19-4200-2016-YEB,CA0194200,6/9/2016,1930,Los Angeles,Los Angeles County,CA,90731,FALSE,FALSE,FALSE,TRUE,In Custody Event,Awaiting Booking,1,2
+URSUS-19-4200-2016-ZAQ,CA0194200,8/19/2016,111,Los Angeles,Los Angeles County,CA,90027,FALSE,FALSE,FALSE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,2
+URSUS-19-4200-2016-ZBK,CA0194200,9/28/2016,649,Los Angeles,Los Angeles County,CA,90020,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-4200-2016-ZEZ,CA0194200,12/11/2016,2230,Los Angeles,Los Angeles County,CA,90044,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4200-2016-ZHV,CA0194200,7/22/2016,745,Los Angeles,Los Angeles County,CA,90046,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-19-4200-2016-ZNE,CA0194200,9/11/2016,410,Los Angeles,Los Angeles County,CA,90041,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-19-4200-2016-ZQQ,CA0194200,9/16/2016,2106,Los Angeles,Los Angeles County,CA,90014,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-19-4200-2016-ZSZ,CA0194200,8/16/2016,700,Los Angeles,Los Angeles County,CA,91331,FALSE,FALSE,TRUE,FALSE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,2,1
+URSUS-19-4200-2016-ZXP,CA0194200,11/5/2016,1330,Los Angeles,Los Angeles County,CA,90046,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,6
+URSUS-19-4400-2016-GXJ,CA0194400,8/19/2016,2244,Manhattan Beach,Los Angeles County,CA,90266,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-4400-2016-RZD,CA0194400,12/19/2016,1446,El Segundo,Los Angeles County,CA,90245,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-19-4800-2016-JJN,CA0194800,3/2/2016,830,East Los Angeles,Los Angeles County,CA,90022,TRUE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-19-5300-2016-SRU,CA0195300,4/8/2016,915,Pasadena,Los Angeles County,CA,91103,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-5500-2016-NPA,CA0195500,4/29/2016,1810,Pomona,Los Angeles County,CA,91766,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-19-5600-2016-FZF,CA0195600,2/5/2016,2336,Redondo Beach,Los Angeles County,CA,90277,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-19-5600-2016-QUS,CA0195600,12/10/2016,1739,San Pedro,Los Angeles County,CA,90731,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-5600-2016-WAF,CA0195600,8/2/2016,939,Lawndale,Los Angeles County,CA,90260,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,4
+URSUS-19-6100-2016-AZG,CA0196100,1/11/2016,1156,San Fernando,Los Angeles County,CA,91340,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-19-6200-2016-HSD,CA0196200,10/27/2016,406,San Gabriel,Los Angeles County,CA,91776,FALSE,FALSE,TRUE,FALSE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-6500-2016-HQD,CA0196500,7/16/2016,350,Santa Monica,Los Angeles County,CA,90402,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-19-6500-2016-HRX,CA0196500,10/28/2016,1925,Santa Monica,Los Angeles County,CA,90404,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,2
+URSUS-19-6500-2016-MEG,CA0196500,3/6/2016,25,Santa Monica,Los Angeles County,CA,90401,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-19-6900-2016-QGP,CA0196900,3/6/2016,132,South Gate,Los Angeles County,CA,90280,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-7000-2016-FBT,CA0197000,10/9/2016,426,South Pasadena,Los Angeles County,CA,91030,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-19-7200-2016-EVS,CA0197200,4/12/2016,635,Torrance,Los Angeles County,CA,90504,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-19-7200-2016-PWD,CA0197200,10/31/2016,1436,Torrance,Los Angeles County,CA,90501,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,3
+URSUS-19-7500-2016-BMT,CA0197500,3/13/2016,2136,West Covina,Los Angeles County,CA,91790,FALSE,FALSE,FALSE,TRUE,Ambush - No warning,,1,2
+URSUS-19-7500-2016-BNG,CA0197500,9/1/2016,1400,West Covina ,Los Angeles County,CA,91791,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-19-7500-2016-PTY,CA0197500,2/9/2016,2100,West Covina,Los Angeles County,CA,91792,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-19-7500-2016-QBK,CA0197500,2/13/2016,312,La Puente ,Los Angeles County,CA,91744,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,3
+URSUS-19-7500-2016-RRC,CA0197500,4/18/2016,5,Baldwin Park,Los Angeles County,CA,91706,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-19-7500-2016-TFZ,CA0197500,5/16/2016,343,Ontario,San Bernardino County,CA,91761,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,4
+URSUS-19-7500-2016-XAM,CA0197500,11/6/2016,56,La Puente ,Los Angeles County,CA,91744,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,3
+URSUS-19-7500-2016-YMU,CA0197500,5/27/2016,1858,West Covina,Los Angeles County,CA,91790,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-19-7600-2016-DBT,CA0197600,12/25/2016,109,Whittier,Los Angeles County,CA,90602,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-19-7600-2016-QAZ,CA0197600,12/31/2016,1846,Whittier,Los Angeles County,CA,90603,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-19-7600-2016-QZY,CA0197600,11/16/2016,600,Whittier,Los Angeles County,CA,90602,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-19-7600-2016-VNZ,CA0197600,12/20/2016,2152,Santa Fe Springs,Los Angeles County,CA,90670,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-19-7600-2016-VSD,CA0197600,3/20/2016,653,Whittier,Los Angeles County,CA,90602,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-19-7600-2016-VVF,CA0197600,11/30/2016,647,Santa Fe Springs,Los Angeles County,CA,90670,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-20-0200-2016-FXE,CA0200200,2/29/2016,1622,Madera,Madera County,CA,93638,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-20-0200-2016-HBD,CA0200200,2/6/2016,2130,Madera,Madera County,CA,93637,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-20-0200-2016-JAA,CA0200200,10/23/2016,430,Madera,Madera County,CA,93637,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-22-0000-2016-GXV,CA0220000,1/15/2016,1700,Mariposa,Mariposa County,CA,95338,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-23-0000-2016-FDW,CA0230000,8/18/2016,858,McKinleyville,Humboldt County,CA,95519,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-23-0300-2016-PVM,CA0230300,8/18/2016,200,McKinleyville,Humboldt County,CA,95519,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-23-0400-2016-YYP,CA0230400,7/4/2016,145,Willits,Mendocino County,CA,95490,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-24-0000-2016-SCX,CA0240000,9/8/2016,2026,Delhi,Merced County,CA,95315,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-24-0500-2016-CTF,CA0240500,12/18/2016,1219,LOS BANOS,Merced County,CA,93635,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-25-0000-2016-RPU,CA0250000,10/19/2016,931,Alturas,Modoc County,CA,96101,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-25-0000-2016-TGK,CA0250000,4/18/2016,1030,Alturas,Modoc County,CA,96101,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-27-0000-2016-XUH,CA0270000,10/16/2016,630,Monterey,Monterey County,CA,93940,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,3
+URSUS-27-1100-2016-AGC,CA0271100,10/11/2016,2328,Soledad,Monterey County,CA,93960,TRUE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,3
+URSUS-28-0100-2016-CCV,CA0280100,7/12/2016,1423,Calistoga,Napa County,CA,94515,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,2,1
+URSUS-28-0200-2016-SQV,CA0280200,11/16/2016,1554,Napa,Napa County,CA,94558,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-28-0200-2016-YFT,CA0280200,9/21/2016,1600,Napa,Napa County,CA,94558,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-28-0200-2016-ZCP,CA0280200,5/14/2016,1136,Napa,Napa County,CA,94558,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-29-0000-2016-DAE,CA0290000,12/27/2016,314,Grass Valley,Nevada County,CA,95945,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-30-0000-2016-AEY,CA0300000,2/8/2016,1208,Stanton,Orange County,CA,90000,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,2
+URSUS-30-0000-2016-BDS,CA0300000,6/9/2016,530,Santa Ana,Orange County,CA,92703,FALSE,FALSE,TRUE,TRUE,In Custody Event,Booked - Awaiting Trial,1,2
+URSUS-30-0000-2016-BMD,CA0300000,4/7/2016,1848,Aliso Viejo,Orange County,CA,92653,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-30-0000-2016-CHQ,CA0300000,7/2/2016,1100,Santa Ana,Orange County,CA,92703,FALSE,FALSE,FALSE,FALSE,In Custody Event,Awaiting Booking,1,1
+URSUS-30-0000-2016-CHZ,CA0300000,7/22/2016,1504,Laguna Niguel,Orange County,CA,92677,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-30-0000-2016-DSP,CA0300000,2/28/2016,1917,San Clemente,Orange County,CA,92672,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-30-0000-2016-EBZ,CA0300000,12/21/2016,130,Dana Point,Orange County,CA,92624,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-30-0000-2016-HHE,CA0300000,11/6/2016,1730,Mission Viejo,Orange County,CA,92692,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-30-0000-2016-HHM,CA0300000,5/31/2016,100,Santa Ana,Orange County,CA,92703,FALSE,FALSE,FALSE,FALSE,In Custody Event,Awaiting Booking,1,2
+URSUS-30-0000-2016-JBB,CA0300000,4/30/2016,440,Santa Ana,Orange County,CA,92703,FALSE,FALSE,FALSE,FALSE,In Custody Event,Awaiting Booking,1,1
+URSUS-30-0000-2016-JFW,CA0300000,3/25/2016,1625,Orange,Orange County,CA,92868,FALSE,FALSE,FALSE,FALSE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-30-0000-2016-JGD,CA0300000,2/15/2016,1252,Yorba Linda,Orange County,CA,92887,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-30-0000-2016-JHG,CA0300000,1/25/2016,510,Orange,Orange County,CA,92868,FALSE,FALSE,FALSE,TRUE,In Custody Event,Booked - Awaiting Trial,1,3
+URSUS-30-0000-2016-MHT,CA0300000,3/14/2016,610,Orange,Orange County,CA,92868,FALSE,FALSE,TRUE,TRUE,In Custody Event,Booked - Awaiting Trial,1,5
+URSUS-30-0000-2016-NGK,CA0300000,9/28/2016,758,Santa Ana,Orange County,CA,92703,FALSE,FALSE,FALSE,FALSE,In Custody Event,Booked - Awaiting Trial,1,8
+URSUS-30-0000-2016-NGQ,CA0300000,2/25/2016,2155,San Clemente,Orange County,CA,92673,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-30-0000-2016-NJJ,CA0300000,7/14/2016,900,Santa Ana,Orange County,CA,92703,FALSE,FALSE,FALSE,FALSE,In Custody Event,Awaiting Booking,1,2
+URSUS-30-0000-2016-NXJ,CA0300000,6/3/2016,2250,Mission Viejo,Orange County,CA,92688,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,4
+URSUS-30-0000-2016-PEW,CA0300000,4/27/2016,1831,San Juan Capistrano,Orange County,CA,92675,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-30-0000-2016-QRV,CA0300000,1/16/2016,2130,Santa Ana,Orange County,CA,92703,FALSE,FALSE,FALSE,FALSE,In Custody Event,Booked - No Charges Filed,1,4
+URSUS-30-0000-2016-RBN,CA0300000,3/11/2016,0,Orange,Orange County,CA,92686,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-30-0000-2016-RNU,CA0300000,2/27/2016,2035,Santa Ana,Orange County,CA,92703,FALSE,FALSE,FALSE,FALSE,In Custody Event,Awaiting Booking,1,2
+URSUS-30-0000-2016-RXM,CA0300000,8/11/2016,1830,Santa Ana,Orange County,CA,92703,FALSE,FALSE,FALSE,FALSE,In Custody Event,Awaiting Booking,1,2
+URSUS-30-0000-2016-TRF,CA0300000,3/12/2016,2100,Yorba Linda,Orange County,CA,92887,FALSE,FALSE,FALSE,FALSE,Call for Service,,1,2
+URSUS-30-0000-2016-UPM,CA0300000,6/20/2016,1900,Fountain Valley,Orange County,CA,92708,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,3
+URSUS-30-0000-2016-URJ,CA0300000,10/20/2016,930,Santa Ana,Orange County,CA,92703,FALSE,FALSE,TRUE,TRUE,In Custody Event,Awaiting Booking,1,5
+URSUS-30-0000-2016-YWF,CA0300000,6/3/2016,2030,Laguna Hills,Orange County,CA,92653,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,4
+URSUS-30-0000-2016-ZGS,CA0300000,8/31/2016,1619,Yorba Linda,Orange County,CA,92886,FALSE,FALSE,FALSE,FALSE,Call for Service,,1,4
+URSUS-30-0100-2016-DPN,CA0300100,7/3/2016,916,Anaheim,Orange County,CA,92804,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-30-0100-2016-NNP,CA0300100,11/19/2016,2050,Anaheim,Orange County,CA,92805,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-30-0100-2016-NVM,CA0300100,2/20/2016,1644,Anaheim,Orange County,CA,92804,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,5
+URSUS-30-0100-2016-SDK,CA0300100,3/6/2016,1411,Anaheim,Orange County,CA,92805,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-30-0100-2016-TRW,CA0300100,2/9/2016,41,Anaheim,Orange County,CA,92801,FALSE,FALSE,FALSE,FALSE,Call for Service,,1,1
+URSUS-30-0100-2016-YTS,CA0300100,8/23/2016,2241,Anaheim,Orange County,CA,92801,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-30-013G-2016-FRU,CA030013G,9/9/2016,1105,Orange,Orange County,CA,92868,FALSE,FALSE,TRUE,TRUE,Ambush - No warning,,1,2
+URSUS-30-0500-2016-WKD,CA0300500,8/2/2016,1630,Cypress,Orange County,CA,90630,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-30-0800-2016-QVM,CA0300800,1/6/2016,58,Fullerton,Orange County,CA,92832,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-30-0800-2016-RUC,CA0300800,5/22/2016,1453,Anaheim,Orange County,CA,92801,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-30-0800-2016-SAC,CA0300800,11/19/2016,2221,Fullerton,Orange County,CA,92833,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-30-0800-2016-VWA,CA0300800,6/18/2016,1834,Fullerton,Orange County,CA,92832,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-30-0900-2016-AWC,CA0300900,10/4/2016,1103,Garden Grove,Orange County,CA,92840,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-30-0900-2016-ZTJ,CA0300900,7/22/2016,1212,Garden Grove,Orange County,CA,92843,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-30-1000-2016-VSZ,CA0301000,8/26/2016,2355,Huntington Beach,Orange County,CA,92649,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-30-1000-2016-YHC,CA0301000,9/30/2016,2355,Huntington Beach,Orange County,CA,92647,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-30-1200-2016-CFA,CA0301200,12/26/2016,1938,La Habra,Orange County,CA,90631,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-30-1200-2016-KFT,CA0301200,7/30/2016,1120,La Habra,Orange County,CA,90631,FALSE,FALSE,TRUE,TRUE,In Custody Event,Awaiting Booking,1,3
+URSUS-30-1400-2016-GSW,CA0301400,11/10/2016,2126,Newport Beach,Orange County,CA,92663,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-30-1400-2016-NMR,CA0301400,6/4/2016,1501,Newport Beach,Orange County,CA,92663,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-30-1400-2016-TAQ,CA0301400,8/2/2016,2202,Newport Beach,Orange County,CA,92663,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,5
+URSUS-30-1500-2016-ZYP,CA0301500,9/25/2016,2049,Orange,Orange County,CA,92869,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,2,1
+URSUS-30-1900-2016-JGM,CA0301900,11/6/2016,2332,Santa Ana,Orange County,CA,92704,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-30-1900-2016-KXA,CA0301900,8/1/2016,924,Santa Ana,Orange County,CA,92701,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-30-1900-2016-PCK,CA0301900,3/22/2016,1350,Santa Ana,Orange County,CA,92706,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-30-1900-2016-PUS,CA0301900,5/24/2016,1949,Santa Ana,Orange County,CA,92703,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-30-1900-2016-USP,CA0301900,2/17/2016,1528,Santa Ana,Orange County,CA,92704,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-30-1900-2016-VZF,CA0301900,2/18/2016,1708,Santa Ana,Orange County,CA,92701,FALSE,FALSE,FALSE,TRUE,Call for Service,,2,1
+URSUS-30-1900-2016-YXM,CA0301900,1/17/2016,2126,Santa Ana,Orange County,CA,92701,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-30-2400-2016-QWQ,CA0302400,1/2/2016,2321,Westminster,Orange County,CA,92683,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-31-0000-2016-FXN,CA0310000,1/18/2016,900,Loomis,Placer County,CA,95650,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-31-0100-2016-XVG,CA0310100,7/24/2016,8,Auburn,Placer County,CA,95603,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-31-013G-2016-UBS,CA031013G,8/23/2016,1110,Auburn,Placer County,CA,95603,FALSE,FALSE,FALSE,TRUE,In Custody Event,Booked - Awaiting Trial,1,1
+URSUS-31-0300-2016-FFG,CA0310300,10/25/2016,1119,Lincoln,Placer County,CA,95648,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-31-0500-2016-MGS,CA0310500,9/13/2016,2033,Roseville,Placer County,CA,95678,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-31-0500-2016-PAT,CA0310500,2/2/2016,1430,Roseville,Placer County,CA,95661,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-32-0000-2016-HMD,CA0320000,2/4/2016,2141,Beckwourth,Plumas County,CA,96129,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,4
+URSUS-33-0000-2016-AFS,CA0330000,7/4/2016,1637,Corona,Riverside County,CA,92880,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-33-0000-2016-CJB,CA0330000,4/15/2016,1902,Lake Elsinore,Riverside County,CA,92530,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-33-0000-2016-EDT,CA0330000,7/24/2016,1230,Hemet ,Riverside County,CA,92543,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,5
+URSUS-33-0000-2016-QHH,CA0330000,11/21/2016,2212,Romoland ,Riverside County,CA,92585,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-33-0000-2016-SRD,CA0330000,5/4/2016,1743,Temecula,Riverside County,CA,92592,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-33-0000-2016-TVR,CA0330000,7/28/2016,1900,La Quinta ,Riverside County,CA,92247,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-33-0000-2016-TYU,CA0330000,6/12/2016,157,Moreno Valley,Riverside County,CA,92551,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-33-0000-2016-VSE,CA0330000,7/5/2016,1606,Temecula ,Riverside County,CA,92592,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-33-0000-2016-YAB,CA0330000,11/15/2016,1030,Temecula,Riverside County,CA,92591,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-33-0000-2016-YFE,CA0330000,3/15/2016,1105,Perris,Riverside County,CA,92571,FALSE,FALSE,TRUE,TRUE,Call for Service,,3,1
+URSUS-33-0100-2016-WCD,CA0330100,1/1/2016,2330,Banning,Riverside County,CA,92220,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-33-0100-2016-YKF,CA0330100,7/4/2016,1837,Banning,Riverside County,CA,92220,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-33-0200-2016-AGS,CA0330200,9/17/2016,1203,Beaumont,Riverside County,CA,92223,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-33-0600-2016-PHX,CA0330600,11/8/2016,1239,Desert Hot Springs,Riverside County,CA,92240,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-33-0800-2016-BFG,CA0330800,8/25/2016,1038,Hemet,Riverside County,CA,92545,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-33-0800-2016-FES,CA0330800,9/8/2016,815,Hemet,Riverside County,CA,92544,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-33-0800-2016-GRJ,CA0330800,3/13/2016,2139,Hemet,Riverside County,CA,92543,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-33-0800-2016-JPB,CA0330800,9/29/2016,12,Hemet,Riverside County,CA,92544,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-33-0800-2016-KCS,CA0330800,5/31/2016,1127,Hemet,Riverside County,CA,92543,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-33-0800-2016-MFS,CA0330800,7/22/2016,1453,Hemet,Riverside County,CA,92543,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-33-0800-2016-MVV,CA0330800,10/2/2016,2357,Hemet,Riverside County,CA,92544,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-33-0800-2016-NBF,CA0330800,7/18/2016,1204,Hemet,Riverside County,CA,92543,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-33-0800-2016-NMF,CA0330800,4/4/2016,2159,Hemet,Riverside County,CA,92545,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-33-0800-2016-RMB,CA0330800,9/8/2016,804,Hemet,Riverside County,CA,92544,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-33-0800-2016-TZB,CA0330800,7/22/2016,1455,Hemet,Riverside County,CA,92543,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-33-0800-2016-UNT,CA0330800,7/14/2016,41,Hemet,Riverside County,CA,92544,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-33-0800-2016-VTP,CA0330800,12/20/2016,155,Hemet,Riverside County,CA,92544,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-33-0800-2016-ZEG,CA0330800,6/26/2016,1700,Fontana,San Bernardino County,CA,92335,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-33-0900-2016-EBQ,CA0330900,8/20/2016,2115,Indio,Riverside County,CA,92201,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-33-0900-2016-KWC,CA0330900,2/6/2016,35,Coachella,Riverside County,CA,92236,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-33-0900-2016-RGH,CA0330900,8/20/2016,2115,Indio,Riverside County,CA,92201,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-33-1100-2016-GFD,CA0331100,10/8/2016,1303,Palm Springs,Riverside County,CA,92262,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,8
+URSUS-33-1100-2016-VNA,CA0331100,11/4/2016,1339,Palm Springs,Riverside County,CA,92262,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-33-1300-2016-ACX,CA0331300,6/11/2016,226,Riverside,Riverside County,CA,92507,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-33-1300-2016-BGY,CA0331300,11/18/2016,2250,Riverside,Riverside County,CA,92504,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-33-1300-2016-CGF,CA0331300,2/2/2016,730,Riverside,Riverside County,CA,92504,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-33-1300-2016-CZF,CA0331300,10/11/2016,1801,Riverside,Riverside County,CA,92505,TRUE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-33-1300-2016-DMT,CA0331300,11/7/2016,1007,Riverside,Riverside County,CA,92506,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,3
+URSUS-33-1300-2016-GTR,CA0331300,5/23/2016,1243,Perris,Riverside County,CA,92570,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,2,6
+URSUS-33-1300-2016-JHK,CA0331300,1/11/2016,1442,Riverside,Riverside County,CA,92508,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-33-1300-2016-MBY,CA0331300,12/30/2016,2200,Riverside,Riverside County,CA,92505,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-33-1300-2016-MHN,CA0331300,6/4/2016,52,Riverside,Riverside County,CA,92501,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,3
+URSUS-33-1300-2016-MSD,CA0331300,12/11/2016,2108,Rivererside,Riverside County,CA,92507,TRUE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,3
+URSUS-33-1300-2016-NHZ,CA0331300,3/6/2016,1115,Riverside,Riverside County,CA,92507,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-33-1300-2016-RGQ,CA0331300,11/10/2016,752,San Bernardino,San Bernardino County,CA,92408,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,1
+URSUS-33-1300-2016-RHW,CA0331300,5/13/2016,2230,Riverside,Riverside County,CA,92501,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-33-1300-2016-SYP,CA0331300,8/20/2016,2138,Riverside,Riverside County,CA,92506,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-33-1300-2016-TCK,CA0331300,12/26/2016,16,Riverside,Riverside County,CA,92501,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-33-1300-2016-VAA,CA0331300,6/18/2016,1731,Riverside,Riverside County,CA,92508,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-33-1300-2016-XAY,CA0331300,3/6/2016,1243,Riverside,Riverside County,CA,92503,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-33-1300-2016-YBW,CA0331300,9/23/2016,135,Glen Valley,Riverside County,CA,92518,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-33-1300-2016-ZQE,CA0331300,1/8/2016,524,Riverside,Riverside County,CA,92507,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,2
+URSUS-33-1500-2016-BUJ,CA0331500,2/3/2016,45,Corona,Riverside County,CA,92880,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-33-1500-2016-TTP,CA0331500,3/18/2016,1913,Corona,Riverside County,CA,92882,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-33-1500-2016-VCC,CA0331500,7/4/2016,1607,Corona,Riverside County,CA,92880,FALSE,FALSE,FALSE,FALSE,Call for Service,,1,1
+URSUS-33-4200-2016-DCV,CA0334200,8/16/2016,2219,Murrieta,Riverside County,CA,92562,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-33-4200-2016-EPV,CA0334200,9/6/2016,2048,Murrieta,Riverside County,CA,92562,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,3
+URSUS-33-4200-2016-GDY,CA0334200,5/15/2016,238,Murrieta,Riverside County,CA,92563,TRUE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,2,4
+URSUS-33-4200-2016-PFC,CA0334200,6/10/2016,1810,Murrieta,Riverside County,CA,92562,FALSE,TRUE,TRUE,TRUE,Call for Service,,1,2
+URSUS-33-4200-2016-USY,CA0334200,10/22/2016,158,Lake Elsinore,Riverside County,CA,92530,FALSE,FALSE,TRUE,TRUE,Welfare Check,,1,5
+URSUS-34-0000-2016-EDX,CA0340000,10/11/2016,1622,Sacramento,Sacramento County,CA,95825,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-34-0000-2016-MCF,CA0340000,2/2/2016,1844,Rancho Cordova,Sacramento County,CA,95670,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-34-0000-2016-MNG,CA0340000,6/18/2016,2301,Carmichael,Sacramento County,CA,95608,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-34-0000-2016-QXT,CA0340000,11/24/2016,1350,Carmichael,Sacramento County,CA,95608,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-34-0000-2016-SPY,CA0340000,8/18/2016,2031,Citrus Heights,Sacramento County,CA,95621,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-34-0000-2016-ZKA,CA0340000,10/22/2016,322,Fair Oaks,Sacramento County,CA,95628,FALSE,FALSE,TRUE,TRUE,Call for Service,,3,1
+URSUS-34-0000-2016-ZZQ,CA0340000,9/23/2016,455,Fair Oaks,Sacramento County,CA,95628,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-34-0400-2016-BYY,CA0340400,7/7/2016,1312,Sacramento,Sacramento County,CA,95814,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,4
+URSUS-34-0400-2016-ECV,CA0340400,7/11/2016,925,Sacramento,Sacramento County,CA,95815,FALSE,FALSE,FALSE,FALSE,Call for Service,,1,2
+URSUS-34-0400-2016-FZG,CA0340400,7/18/2016,457,Sacramento,Sacramento County,CA,95833,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-34-0400-2016-SGQ,CA0340400,11/6/2016,137,Sacramento,Sacramento County,CA,95811,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,1
+URSUS-34-0400-2016-XDN,CA0340400,8/24/2016,824,Sacramento,Sacramento County,CA,95823,FALSE,FALSE,FALSE,FALSE,Call for Service,,1,3
+URSUS-34-0400-2016-XFU,CA0340400,5/1/2016,28,Sacramento,Sacramento County,CA,95816,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-34-0H00-2016-SRX,CA0340H00,1/26/2016,710,Sacramento,Sacramento County,CA,95829,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-34-9600-2016-FQU,CA0349600,8/8/2016,2156,Citrus Heights,Sacramento County,CA,95621,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,3
+URSUS-34-9600-2016-RGU,CA0349600,5/19/2016,1556,Citrus Heights,Sacramento County,CA,95610,FALSE,FALSE,FALSE,FALSE,Call for Service,,1,1
+URSUS-34-9900-2016-AKH,CA0349900,5/21/2016,1630,Escalon,San Joaquin County,CA,95320,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-34-9900-2016-CFT,CA0349900,12/26/2016,1525,Manhattan Beach,Los Angeles County,CA,90278,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,4
+URSUS-34-9900-2016-DKY,CA0349900,8/28/2016,224,Belmont,San Mateo County,CA,94002,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-34-9900-2016-EQC,CA0349900,6/4/2016,1013,Montague,Siskiyou County,CA,96064,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-34-9900-2016-GAB,CA0349900,7/24/2016,1230,Hemet,Riverside County,CA,92545,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-34-9900-2016-GQY,CA0349900,7/3/2016,2250,Fullerton,Orange County,CA,92833,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,2,2
+URSUS-34-9900-2016-GTG,CA0349900,2/19/2016,1254,Sacramento,Sacramento County,CA,95824,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,3
+URSUS-34-9900-2016-JKC,CA0349900,2/2/2016,957,San Francisco,San Francisco County,CA,94105,TRUE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-34-9900-2016-JPC,CA0349900,8/10/2016,54,Tustin,Orange County,CA,92780,FALSE,FALSE,TRUE,TRUE,In Custody Event,In Transit,1,2
+URSUS-34-9900-2016-KKN,CA0349900,12/7/2016,2341,Unincorporated,Sacramento County,CA,95837,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-34-9900-2016-KSH,CA0349900,10/28/2016,1354,Sacramento,Sacramento County,CA,95841,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-34-9900-2016-KXS,CA0349900,10/25/2016,1515,San Francisco,San Francisco County,CA,94112,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-34-9900-2016-NPW,CA0349900,1/31/2016,400,Bakersfield,Kern County,CA,93307,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-34-9900-2016-NVF,CA0349900,4/12/2016,922,Penngrove,Sonoma County,CA,94951,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-34-9900-2016-PDR,CA0349900,9/5/2016,2357,Los Angeles,Los Angeles County,CA,90015,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-34-9900-2016-QSG,CA0349900,4/7/2016,1303,Unincorporated ,Sacramento County,CA,95841,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,1
+URSUS-34-9900-2016-STR,CA0349900,10/10/2016,1911,Irvine,Orange County,CA,92618,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-34-9900-2016-YNG,CA0349900,12/20/2016,1940,Willits,Mendocino County,CA,95490,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-34-9900-2016-YSH,CA0349900,6/24/2016,1750,Concord,Contra Costa County,CA,94520,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-34-9900-2016-ZGK,CA0349900,5/26/2016,1642,Fresno,Fresno County,CA,93725,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-35-0000-2016-MJZ,CA0350000,10/29/2016,2345,Hollister,San Benito County,CA,95023,TRUE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-36-0000-2016-AKR,CA0360000,8/18/2016,1912,Fontana,San Bernardino County,CA,92335,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,5
+URSUS-36-0000-2016-CYD,CA0360000,1/9/2016,2239,Chino Hills,San Bernardino County,CA,91709,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-36-0000-2016-DGT,CA0360000,10/23/2016,1824,Rancho Cucamonga,San Bernardino County,CA,91739,FALSE,FALSE,FALSE,TRUE,In Custody Event,Booked - Awaiting Trial,1,1
+URSUS-36-0000-2016-DPS,CA0360000,6/5/2016,230,San Bernardino,San Bernardino County,CA,92410,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-36-0000-2016-ETN,CA0360000,6/19/2016,250,Loma Linda,San Bernardino County,CA,92354,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-36-0000-2016-EWU,CA0360000,3/11/2016,2012,Adelanto,San Bernardino County,CA,92301,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-36-0000-2016-GWK,CA0360000,10/14/2016,2206,Hesperia,San Bernardino County,CA,92345,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-36-0000-2016-HFG,CA0360000,2/27/2016,2027,Hesperia,San Bernardino County,CA,92345,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-36-0000-2016-HNF,CA0360000,7/17/2016,1244,Chino Hills,San Bernardino County,CA,91709,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-36-0000-2016-JDT,CA0360000,8/1/2016,2126,Muscoy,San Bernardino County,CA,92407,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-36-0000-2016-JGN,CA0360000,5/15/2016,1506,San Bernardino,San Bernardino County,CA,92407,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-36-0000-2016-JRC,CA0360000,3/1/2016,145,Crestline,San Bernardino County,CA,92325,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-36-0000-2016-JXJ,CA0360000,2/22/2016,108,Victorville,San Bernardino County,CA,92392,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-36-0000-2016-KRX,CA0360000,1/1/2016,140,San Bernardino,San Bernardino County,CA,92408,FALSE,FALSE,TRUE,TRUE,In Custody Event,Awaiting Booking,1,2
+URSUS-36-0000-2016-KWB,CA0360000,8/18/2016,2327,Highland,San Bernardino County,CA,92346,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-36-0000-2016-MTT,CA0360000,5/20/2016,1719,Fontana,San Bernardino County,CA,92335,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-36-0000-2016-NCH,CA0360000,9/24/2016,1457,Big Bear,San Bernardino County,CA,92314,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-36-0000-2016-NHV,CA0360000,7/22/2016,1600,Victorville,San Bernardino County,CA,92392,FALSE,FALSE,FALSE,TRUE,In Custody Event,Out to Court,1,3
+URSUS-36-0000-2016-PRH,CA0360000,1/24/2016,2123,Victorville,San Bernardino County,CA,92394,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,3
+URSUS-36-0000-2016-RJA,CA0360000,1/27/2016,1018,Rancho Cucamonga,San Bernardino County,CA,91739,FALSE,FALSE,FALSE,TRUE,In Custody Event,Booked - Awaiting Trial,1,2
+URSUS-36-0000-2016-TDQ,CA0360000,3/28/2016,1905,Apple Valley,San Bernardino County,CA,92307,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-36-0000-2016-TEY,CA0360000,7/4/2016,2005,Highland,San Bernardino County,CA,92346,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-36-0000-2016-TYB,CA0360000,7/5/2016,1342,San Bernardino,San Bernardino County,CA,92410,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-36-0000-2016-UFZ,CA0360000,7/14/2016,1032,Victorville ,San Bernardino County,CA,92392,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-36-0000-2016-WCJ,CA0360000,3/11/2016,938,San Bernardino,San Bernardino County,CA,92401,FALSE,FALSE,FALSE,TRUE,In Custody Event,Out to Court,1,2
+URSUS-36-0000-2016-YSB,CA0360000,12/12/2016,828,Apple Valley,San Bernardino County,CA,92308,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-36-0000-2016-YVE,CA0360000,7/2/2016,1745,Bloomington,San Bernardino County,CA,93216,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-36-0000-2016-ZDH,CA0360000,6/30/2016,1053,Victorville,San Bernardino County,CA,92395,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-36-0000-2016-ZDN,CA0360000,1/25/2016,40,Hesperia,San Bernardino County,CA,92345,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,2
+URSUS-36-0000-2016-ZHY,CA0360000,2/17/2016,1615,Rancho Cucamonga,San Bernardino County,CA,91730,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-36-0000-2016-ZQD,CA0360000,12/21/2016,2304,Needles,San Bernardino County,CA,92363,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-36-0000-2016-ZQU,CA0360000,7/5/2016,1829,Rancho Cucamonga,San Bernardino County,CA,91739,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,5
+URSUS-36-0200-2016-FXP,CA0360200,7/23/2016,2124,Chino,San Bernardino County,CA,91710,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-36-0200-2016-QAJ,CA0360200,3/9/2016,803,Chino,San Bernardino County,CA,91710,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,3
+URSUS-36-0300-2016-RET,CA0360300,11/5/2016,207,Colton,San Bernardino County,CA,92324,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-36-0300-2016-UVA,CA0360300,9/12/2016,1721,Colton,San Bernardino County,CA,92324,FALSE,TRUE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,2,2
+URSUS-36-0400-2016-GCP,CA0360400,4/4/2016,1355,Fontana,San Bernardino County,CA,92336,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,6
+URSUS-36-0400-2016-WBU,CA0360400,3/6/2016,241,Fontana,San Bernardino County,CA,92337,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-36-0400-2016-WUB,CA0360400,7/14/2016,2318,Fontana,San Bernardino County,CA,92336,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,7
+URSUS-36-0400-2016-ZXY,CA0360400,12/1/2016,318,Fontana,San Bernardino County,CA,92336,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-36-0700-2016-TQQ,CA0360700,3/16/2016,4,Ontario,San Bernardino County,CA,91764,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-36-0800-2016-WAW,CA0360800,3/24/2016,1412,Redlands,San Bernardino County,CA,92374,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,2,9
+URSUS-36-1000-2016-AKC,CA0361000,1/29/2016,1900,Colton,San Bernardino County,CA,92376,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,1
+URSUS-36-1000-2016-AUJ,CA0361000,6/15/2016,319,Highland,San Bernardino County,CA,92346,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-36-1000-2016-AUS,CA0361000,7/27/2016,19,San Bernardino,San Bernardino County,CA,92411,FALSE,FALSE,FALSE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,1
+URSUS-36-1000-2016-AWX,CA0361000,11/25/2016,1450,San Bernardino,San Bernardino County,CA,92408,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-36-1000-2016-CBX,CA0361000,12/6/2016,1040,San Bernardino,San Bernardino County,CA,92410,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-36-1000-2016-DJB,CA0361000,5/15/2016,1511,San Bernardino,San Bernardino County,CA,92407,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-36-1000-2016-KAD,CA0361000,7/22/2016,230,San Bernardino,San Bernardino County,CA,92405,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-36-1000-2016-KMX,CA0361000,7/16/2016,2115,San Bernardino,San Bernardino County,CA,92405,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-36-1000-2016-MAY,CA0361000,5/8/2016,2358,San Bernardino,San Bernardino County,CA,92404,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-36-1000-2016-PFP,CA0361000,2/29/2016,933,San Bernardino,San Bernardino County,CA,92411,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,2,1
+URSUS-36-1000-2016-RPZ,CA0361000,9/10/2016,2345,San Bernardino,San Bernardino County,CA,92411,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-36-1000-2016-RSP,CA0361000,8/29/2016,1031,San Bernardino,San Bernardino County,CA,92411,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-36-1000-2016-SGR,CA0361000,1/31/2016,209,San Bernardino,San Bernardino County,CA,92408,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-36-1000-2016-SZF,CA0361000,8/2/2016,1411,San Bernardino,San Bernardino County,CA,92401,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-36-1000-2016-TJQ,CA0361000,9/3/2016,1830,San Bernardino,San Bernardino County,CA,92411,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-36-1000-2016-VAM,CA0361000,9/12/2016,300,San Bernardino,San Bernardino County,CA,92411,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-36-1000-2016-WDN,CA0361000,9/12/2016,730,San Bernardino,San Bernardino County,CA,92404,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-36-1000-2016-WYC,CA0361000,5/22/2016,2350,San Bernardino,San Bernardino County,CA,92410,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-36-1000-2016-XDN,CA0361000,5/6/2016,1648,San Bernardino,San Bernardino County,CA,92407,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-36-1000-2016-YKU,CA0361000,2/9/2016,2125,San Bernardino,San Bernardino County,CA,92405,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-36-1000-2016-YME,CA0361000,3/25/2016,1908,San Bernardino,San Bernardino County,CA,92404,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-36-1000-2016-YTG,CA0361000,3/24/2016,1642,Redlands,San Bernardino County,CA,92374,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-36-1000-2016-ZGS,CA0361000,4/28/2016,2041,San Bernardino,San Bernardino County,CA,92411,FALSE,FALSE,TRUE,TRUE,Ambush - No warning,,1,3
+URSUS-36-1000-2016-ZPG,CA0361000,5/21/2016,1910,San Bernardino,San Bernardino County,CA,92411,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-36-5000-2016-XNU,CA0365000,10/27/2016,1339,Fontana,San Bernardino County,CA,92336,FALSE,TRUE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,4
+URSUS-36-5000-2016-ZPT,CA0365000,9/6/2016,1414,Fontana,San Bernardino County,CA,92335,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-37-0000-2016-AJH,CA0370000,9/8/2016,2035,Del Mar,San Diego County,CA,92014,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-37-0000-2016-BNF,CA0370000,2/16/2016,415,Boulevard,San Diego County,CA,91905,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-37-0000-2016-BWW,CA0370000,1/10/2016,306,Vista,San Diego County,CA,92081,FALSE,FALSE,TRUE,FALSE,In Custody Event,Awaiting Booking,1,1
+URSUS-37-0000-2016-CQB,CA0370000,3/27/2016,159,Vista,San Diego County,CA,92084,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-37-0000-2016-CRT,CA0370000,7/20/2016,1354,Lemon Grove,San Diego County,CA,91945,FALSE,FALSE,TRUE,FALSE,Call for Service,,1,4
+URSUS-37-0000-2016-ERZ,CA0370000,11/14/2016,527,Encinitas,San Diego County,CA,92024,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-37-0000-2016-FDC,CA0370000,12/3/2016,517,Rancho Santa Fe,San Diego County,CA,92067,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-37-0000-2016-JZM,CA0370000,4/27/2016,1430,Vista,San Diego County,CA,92081,FALSE,FALSE,FALSE,TRUE,In Custody Event,Other,1,6
+URSUS-37-0000-2016-KGP,CA0370000,8/8/2016,445,Poway,San Diego County,CA,92064,TRUE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,4
+URSUS-37-0000-2016-KXG,CA0370000,8/25/2016,1245,Fallb,San Diego County,CA,92028,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-37-0000-2016-MJC,CA0370000,8/11/2016,31,Vista,San Diego County,CA,92083,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-37-0000-2016-MWT,CA0370000,1/27/2016,1200,Chula Vista,San Diego County,CA,91910,FALSE,FALSE,TRUE,FALSE,Call for Service,,1,1
+URSUS-37-0000-2016-NBB,CA0370000,2/20/2016,30,San Diego,San Diego County,CA,92101,FALSE,FALSE,FALSE,TRUE,In Custody Event,Other,1,2
+URSUS-37-0000-2016-NFU,CA0370000,6/13/2016,1030,San Diego,San Diego County,CA,92179,FALSE,FALSE,FALSE,TRUE,In Custody Event,Other,1,5
+URSUS-37-0000-2016-NQY,CA0370000,1/12/2016,2300,Spring Valley,San Diego County,CA,91977,FALSE,FALSE,TRUE,FALSE,Call for Service,,1,1
+URSUS-37-0000-2016-QVA,CA0370000,9/17/2016,536,San Marcos,San Diego County,CA,92069,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,7
+URSUS-37-0000-2016-QXQ,CA0370000,1/9/2016,1100,El Cajon,San Diego County,CA,92021,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-37-0000-2016-RMV,CA0370000,11/25/2016,1541,Santee,San Diego County,CA,92071,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,6
+URSUS-37-0000-2016-RVU,CA0370000,11/4/2016,1948,Poway,San Diego County,CA,92064,FALSE,FALSE,TRUE,FALSE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-37-0000-2016-RYU,CA0370000,8/5/2016,1539,Santee,San Diego County,CA,92071,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,3
+URSUS-37-0000-2016-SBF,CA0370000,3/11/2016,1152,Vista,San Diego County,CA,92081,FALSE,FALSE,FALSE,TRUE,In Custody Event,Awaiting Booking,1,1
+URSUS-37-0000-2016-TAP,CA0370000,3/14/2016,1433,Fallbrook,San Diego County,CA,92028,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-37-0000-2016-TNY,CA0370000,8/18/2016,1020,Lakeside,San Diego County,CA,92040,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,3
+URSUS-37-0000-2016-UGZ,CA0370000,7/7/2016,948,Fallbrook,San Diego County,CA,92028,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-37-0000-2016-UNA,CA0370000,6/4/2016,1901,Vista,San Diego County,CA,92081,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,4
+URSUS-37-0000-2016-UXB,CA0370000,7/25/2016,2007,San Diego,San Diego County,CA,92179,FALSE,FALSE,FALSE,FALSE,In Custody Event,Sentenced,1,4
+URSUS-37-0000-2016-VBB,CA0370000,10/24/2016,1440,Encinitas,San Diego County,CA,92024,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,4
+URSUS-37-0000-2016-VJX,CA0370000,9/20/2016,2325,San Diego,San Diego County,CA,92101,FALSE,FALSE,FALSE,TRUE,In Custody Event,Other,1,7
+URSUS-37-0000-2016-WNA,CA0370000,6/16/2016,2335,San Diego,San Diego County,CA,92123,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-37-0000-2016-YBS,CA0370000,9/4/2016,1,Vista,San Diego County,CA,92081,FALSE,FALSE,TRUE,TRUE,In Custody Event,Awaiting Booking,1,1
+URSUS-37-0000-2016-YNR,CA0370000,12/28/2016,955,Santee,San Diego County,CA,92071,FALSE,FALSE,TRUE,TRUE,In Custody Event,Other,1,9
+URSUS-37-0500-2016-DPX,CA0370500,6/19/2016,1304,El Cajon,San Diego County,CA,92021,FALSE,FALSE,TRUE,FALSE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-37-0500-2016-WZY,CA0370500,9/26/2016,1257,El Cajon,San Diego County,CA,92021,FALSE,FALSE,FALSE,FALSE,Welfare Check,,1,2
+URSUS-37-0500-2016-YKC,CA0370500,1/16/2016,126,El Cajon,San Diego County,CA,92020,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,2,1
+URSUS-37-1000-2016-PCA,CA0371000,6/21/2016,1750,Oceanside,San Diego County,CA,92058,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-37-1100-2016-AND,CA0371100,12/12/2016,2056,San Diego,San Diego County,CA,92117,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,6
+URSUS-37-1100-2016-AZF,CA0371100,5/11/2016,2128,San Diego,San Diego County,CA,92114,FALSE,FALSE,FALSE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,4
+URSUS-37-1100-2016-BCX,CA0371100,7/28/2016,2254,San Diego,San Diego County,CA,92113,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,2
+URSUS-37-1100-2016-CMX,CA0371100,12/3/2016,2135,San Diego,San Diego County,CA,92114,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-37-1100-2016-CXC,CA0371100,1/30/2016,716,San Diego,San Diego County,CA,92114,FALSE,FALSE,FALSE,FALSE,Call for Service,,1,3
+URSUS-37-1100-2016-EDN,CA0371100,5/2/2016,2247,San Diego,San Diego County,CA,92114,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,2
+URSUS-37-1100-2016-GHH,CA0371100,11/13/2016,2113,San Diego,San Diego County,CA,92105,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-37-1100-2016-GJT,CA0371100,12/12/2016,321,San Diego,San Diego County,CA,92114,FALSE,FALSE,TRUE,FALSE,Call for Service,,1,2
+URSUS-37-1100-2016-PEK,CA0371100,1/1/2016,2015,San Diego,San Diego County,CA,92103,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-37-1100-2016-PTA,CA0371100,6/22/2016,2309,San Diego,San Diego County,CA,92120,FALSE,FALSE,TRUE,FALSE,Call for Service,,1,3
+URSUS-37-1100-2016-RRH,CA0371100,1/18/2016,2133,San Diego,San Diego County,CA,92105,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-37-1100-2016-VCY,CA0371100,5/28/2016,2033,San Diego,San Diego County,CA,92123,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-37-1100-2016-XDA,CA0371100,2/13/2016,2124,San Diego,San Diego County,CA,92108,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-37-1100-2016-ZCZ,CA0371100,10/21/2016,2240,San Diego,San Diego County,CA,92110,FALSE,FALSE,TRUE,FALSE,Vehicle / Bike / Pedestrian Stop,,1,5
+URSUS-38-0000-2016-PMT,CA0380000,7/27/2016,1030,San Francisco,San Francisco County,CA,94103,FALSE,FALSE,TRUE,TRUE,In Custody Event,Booked - Awaiting Trial,1,5
+URSUS-38-0100-2016-MEZ,CA0380100,4/7/2016,957,San Francisco,San Francisco County,CA,94110,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-38-0100-2016-PCW,CA0380100,5/26/2016,940,San Francisco,San Francisco County,CA,94124,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-38-0100-2016-USX,CA0380100,10/14/2016,2014,San Francisco ,San Francisco County,CA,94132,TRUE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-39-0000-2016-JFZ,CA0390000,12/21/2016,1822,Stockton,San Joaquin County,CA,95205,FALSE,FALSE,FALSE,FALSE,Call for Service,,1,1
+URSUS-39-0000-2016-NBU,CA0390000,10/30/2016,230,Stockton,San Joaquin County,CA,95215,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-39-0000-2016-QHD,CA0390000,4/11/2016,1840,Stockton,San Joaquin County,CA,95205,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-39-0000-2016-WAS,CA0390000,5/13/2016,1649,Stockton,San Joaquin County,CA,95215,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-39-0200-2016-GZR,CA0390200,3/16/2016,312,Lodi,San Joaquin County,CA,95240,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-39-0200-2016-YNZ,CA0390200,9/6/2016,1959,Lodi,San Joaquin County,CA,95240,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-39-0300-2016-GCZ,CA0390300,2/23/2016,1456,Ripon,San Joaquin County,CA,95366,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-39-0500-2016-AFM,CA0390500,11/18/2016,2054,Stockton,San Joaquin County,CA,95206,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,3,2
+URSUS-39-0500-2016-BGV,CA0390500,3/7/2016,1055,Stockton,San Joaquin County,CA,95203,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-39-0500-2016-DMT,CA0390500,8/16/2016,1402,Stockton,San Joaquin County,CA,95207,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-39-0500-2016-EFH,CA0390500,12/4/2016,2254,Stockton,San Joaquin County,CA,95209,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-39-0500-2016-FTB,CA0390500,6/3/2016,753,Stockton,San Joaquin County,CA,95206,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,5
+URSUS-39-0500-2016-JVP,CA0390500,1/13/2016,1615,Stockton,San Joaquin County,CA,95206,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-39-0500-2016-KKF,CA0390500,4/22/2016,750,Stockton,San Joaquin County,CA,95202,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-39-0500-2016-MME,CA0390500,9/18/2016,2350,Stockton,San Joaquin County,CA,95205,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-39-0500-2016-PSE,CA0390500,1/18/2016,19,Stockton,San Joaquin County,CA,95212,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,7
+URSUS-39-0500-2016-RFB,CA0390500,2/23/2016,1503,Ripon,San Joaquin County,CA,95366,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-39-0500-2016-SPH,CA0390500,4/13/2016,850,Stockton,San Joaquin County,CA,95210,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-39-0500-2016-WBU,CA0390500,3/7/2016,2105,Stockton,San Joaquin County,CA,95206,FALSE,FALSE,FALSE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-39-0500-2016-WEP,CA0390500,8/9/2016,733,Stockton,San Joaquin County,CA,95205,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-39-1500-2016-BEW,CA0391500,4/15/2016,928,Stockton,San Joaquin County,CA,95206,FALSE,TRUE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-39-1500-2016-CUW,CA0391500,2/26/2016,1431,Stockton,San Joaquin County,CA,95212,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-40-0100-2016-EPY,CA0400100,8/25/2016,623,Arroyo Grande,San Luis Obispo County,CA,93420,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-40-0800-2016-YWU,CA0400800,7/4/2016,1300,Atascadero,San Luis Obispo County,CA,93422,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-41-0000-2016-EBY,CA0410000,3/29/2016,2221,Redwood City,San Mateo County,CA,94061,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-41-0000-2016-JFY,CA0410000,10/28/2016,632,Redwood City,San Mateo County,CA,94063,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-41-0000-2016-MVE,CA0410000,8/10/2016,1600,Millbrae,San Mateo County,CA,94030,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-41-0000-2016-NZR,CA0410000,8/8/2016,2320,Millbrae,San Mateo County,CA,94030,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-41-0000-2016-RXQ,CA0410000,2/27/2016,1003,Menlo Park,San Mateo County,CA,94025,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-41-0000-2016-WES,CA0410000,10/30/2016,830,Palo Alto,Santa Clara County,CA,94304,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-41-0600-2016-NCC,CA0410600,2/8/2016,1245,Daly City,San Mateo County,CA,94015,TRUE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-41-1100-2016-YXR,CA0411100,3/16/2016,111,Pacifica,San Mateo County,CA,94044,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-41-1300-2016-ADK,CA0411300,3/6/2016,2122,Redwood City,San Mateo County,CA,94063,TRUE,FALSE,FALSE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,2
+URSUS-41-1400-2016-XMJ,CA0411400,7/12/2016,1159,San Bruno,San Mateo County,CA,94066,FALSE,FALSE,FALSE,FALSE,Welfare Check,,1,1
+URSUS-41-1600-2016-CUZ,CA0411600,1/20/2016,245,San Mateo,San Mateo County,CA,94403,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-41-1700-2016-AZB,CA0411700,3/31/2016,2218,South San Francisco,San Mateo County,CA,94080,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-41-1700-2016-TUB,CA0411700,11/24/2016,1420,South San Francisco,San Mateo County,CA,94080,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,1
+URSUS-41-1700-2016-USX,CA0411700,7/17/2016,2348,South San Francisco,San Mateo County,CA,94080,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-41-1700-2016-VEB,CA0411700,2/5/2016,1012,South San Francisco,San Mateo County,CA,94080,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-42-0000-2016-APK,CA0420000,5/3/2016,1250,Santa Maria,Santa Barbara County,CA,93455,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-42-0000-2016-EEU,CA0420000,5/26/2016,1531,Solvang,Santa Barbara County,CA,93463,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-42-0000-2016-RBP,CA0420000,10/14/2016,1611,Carpinteria,Santa Barbara County,CA,93013,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-42-0000-2016-SEF,CA0420000,5/26/2016,1602,Solvang,Santa Barbara County,CA,93463,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,6
+URSUS-42-0000-2016-TNG,CA0420000,7/29/2016,755,Santa Barbara,Santa Barbara County,CA,93110,FALSE,FALSE,TRUE,FALSE,In Custody Event,Awaiting Booking,1,4
+URSUS-42-0200-2016-UJQ,CA0420200,11/21/2016,804,Lompoc,Santa Barbara County,CA,93436,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,3
+URSUS-42-0200-2016-UTP,CA0420200,8/27/2016,1204,Lompoc,Santa Barbara County,CA,93436,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-42-0200-2016-UUZ,CA0420200,8/21/2016,226,Lompoc,Santa Barbara County,CA,93436,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-42-0200-2016-WYG,CA0420200,12/3/2016,2039,Lompoc,Santa Barbara County,CA,93436,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-42-0200-2016-YQC,CA0420200,4/2/2016,1612,Lompoc,Santa Barbara County,CA,93436,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-42-0300-2016-CFQ,CA0420300,12/8/2016,1132,Santa Barbara,Santa Barbara County,CA,93101,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-42-0300-2016-GAA,CA0420300,3/18/2016,2118,Santa Barbara,Santa Barbara County,CA,93101,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,5
+URSUS-42-0300-2016-PPT,CA0420300,2/6/2016,535,Santa Barbara,Santa Barbara County,CA,93101,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,1
+URSUS-42-0400-2016-CKP,CA0420400,7/20/2016,844,Santa Maria,Santa Barbara County,CA,93454,FALSE,FALSE,FALSE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,3
+URSUS-42-0400-2016-DJS,CA0420400,5/3/2016,1344,Santa Maria,Santa Barbara County,CA,93454,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,5
+URSUS-43-0000-2016-BKG,CA0430000,4/18/2016,1600,Milpitas,Santa Clara County,CA,95035,TRUE,FALSE,FALSE,TRUE,In Custody Event,Booked - Awaiting Trial,2,3
+URSUS-43-0000-2016-NAE,CA0430000,9/13/2016,2025,Saratoga,Santa Clara County,CA,95070,FALSE,FALSE,FALSE,TRUE,Welfare Check,,1,1
+URSUS-43-0000-2016-NHJ,CA0430000,8/15/2016,1018,San Jose,Santa Clara County,CA,95110,FALSE,FALSE,FALSE,TRUE,In Custody Event,Booked - Awaiting Trial,4,2
+URSUS-43-0400-2016-GGT,CA0430400,6/26/2016,2038,Gilroy,Santa Clara County,CA,95020,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-43-0400-2016-UVZ,CA0430400,4/8/2016,1119,Gilroy,Santa Clara County,CA,95020,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,2,2
+URSUS-43-0500-2016-TJV,CA0430500,11/16/2016,425,Los Altos,Santa Clara County,CA,94024,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-43-0800-2016-AUN,CA0430800,4/29/2016,51,Milpitas,Santa Clara County,CA,95035,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-43-0800-2016-RUB,CA0430800,3/5/2016,2234,Milpitas,Santa Clara County,CA,95035,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-43-1000-2016-DWY,CA0431000,6/16/2016,1400,San Jose,Santa Clara County,CA,95122,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-43-1300-2016-DQF,CA0431300,11/13/2016,1930,San Jose,Santa Clara County,CA,95133,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-43-1300-2016-GKM,CA0431300,7/4/2016,1651,San Jose,Santa Clara County,CA,95127,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,3
+URSUS-43-1300-2016-QSV,CA0431300,1/1/2016,822,San Jose,Santa Clara County,CA,95112,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-43-1300-2016-SBN,CA0431300,3/26/2016,107,San Jose,Santa Clara County,CA,95122,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,3
+URSUS-43-1300-2016-YPA,CA0431300,11/19/2016,145,SAN JOSE,Santa Clara County,CA,95113,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-43-1300-2016-ZKN,CA0431300,4/25/2016,2236,San Jose,Santa Clara County,CA,95122,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,5
+URSUS-43-1400-2016-FNT,CA0431400,3/26/2016,1215,SANTA CLARA,Santa Clara County,CA,95050,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-43-1400-2016-KRU,CA0431400,4/4/2016,1308,Santa Clara,Santa Clara County,CA,95051,FALSE,FALSE,FALSE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,2
+URSUS-43-1600-2016-AWC,CA0431600,7/24/2016,24,Sunnyvale,Santa Clara County,CA,94085,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-43-1600-2016-PTF,CA0431600,7/4/2016,414,Saratoga,Santa Clara County,CA,95070,TRUE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-43-1600-2016-QJK,CA0431600,11/7/2016,1638,Sunnyvale,Santa Clara County,CA,94089,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-43-1600-2016-UMF,CA0431600,11/3/2016,415,Sunnyvale,Santa Clara County,CA,94086,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-43-1600-2016-WQA,CA0431600,10/29/2016,709,Sunnyvale,Santa Clara County,CA,94087,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-43-1700-2016-YWW,CA0431700,3/17/2016,1107,San Jose,Santa Clara County,CA,95112,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-44-0000-2016-DCB,CA0440000,11/19/2016,252,Watsonville,Santa Cruz County,CA,95076,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-44-0200-2016-XQP,CA0440200,10/16/2016,330,Santa Cruz,Santa Cruz County,CA,95060,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,4
+URSUS-44-0310-2016-XSU,CA0440300,12/25/2016,1657,Watsonville,Santa Cruz County,CA,95076,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-44-0400-2016-TME,CA0440400,5/5/2016,2115,Scotts Valley,Santa Cruz County,CA,95066,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-45-0200-2016-BFJ,CA0450200,7/13/2016,720,Redding,Shasta County,CA,96002,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,6
+URSUS-45-0200-2016-KZH,CA0450200,1/5/2016,1747,Redding,Shasta County,CA,96003,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,9
+URSUS-45-0200-2016-YRH,CA0450200,11/16/2016,1136,Redding,Shasta County,CA,96002,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,4
+URSUS-47-0000-2016-FCK,CA0470000,5/17/2016,1830,Montague,Siskiyou County,CA,96064,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,2
+URSUS-48-0000-2016-CKJ,CA0480000,5/26/2016,1700,Vallejo,Solano County,CA,94590,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,4
+URSUS-48-0300-2016-FXJ,CA0480300,3/28/2016,1240,Fairfield,Solano County,CA,94533,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-48-0500-2016-WFN,CA0480500,1/3/2016,332,Suisun City,Solano County,CA,94585,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-48-0600-2016-JET,CA0480600,6/4/2016,2220,Vacaville,Solano County,CA,95688,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-48-0600-2016-PYH,CA0480600,6/14/2016,1051,Vacaville,Solano County,CA,95687,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-48-0600-2016-TJG,CA0480600,6/22/2016,2154,Vacaville,Solano County,CA,95687,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-48-0600-2016-XZK,CA0480600,6/2/2016,1545,Vacaville,Solano County,CA,95688,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-48-0700-2016-FAP,CA0480700,10/16/2016,2050,Vallejo,Solano County,CA,94590,FALSE,FALSE,TRUE,TRUE,Ambush - No warning,,1,2
+URSUS-48-0700-2016-JVP,CA0480700,8/31/2016,2306,Vallejo,Solano County,CA,94590,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,2,2
+URSUS-49-0000-2016-KKV,CA0490000,12/11/2016,1735,Windsor,Sonoma County,CA,95492,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-49-0500-2016-DJF,CA0490500,5/23/2016,2338,Santa Rosa,Sonoma County,CA,95404,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-49-0500-2016-VNY,CA0490500,3/2/2016,1125,Santa Rosa,Sonoma County,CA,95404,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-49-0500-2016-VUZ,CA0490500,10/9/2016,2137,Santa Rosa,Sonoma County,CA,95404,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,5
+URSUS-49-0500-2016-XXE,CA0490500,4/1/2016,928,Santa Rosa,Sonoma County,CA,95404,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,2
+URSUS-50-0000-2016-AFT,CA0500000,11/13/2016,1000,Hughson,Stanislaus County,CA,95326,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-50-0000-2016-ATZ,CA0500000,7/14/2016,1107,Keyes,Stanislaus County,CA,95328,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-50-0000-2016-KFU,CA0500000,12/2/2016,112,Modesto,Stanislaus County,CA,95358,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-50-0000-2016-TCE,CA0500000,10/19/2016,1110,Riverbank,Stanislaus County,CA,95367,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-50-0000-2016-ZME,CA0500000,8/26/2016,908,Patterson,Stanislaus County,CA,95363,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-50-0100-2016-KYG,CA0500100,1/5/2016,2148,Ceres,Stanislaus County,CA,95307,FALSE,FALSE,FALSE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,2
+URSUS-50-0200-2016-EJH,CA0500200,10/8/2016,304,Modesto,Stanislaus County,CA,95355,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,3
+URSUS-50-0200-2016-KZQ,CA0500200,2/14/2016,1732,Modesto,Stanislaus County,CA,95350,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,1
+URSUS-50-0200-2016-SYM,CA0500200,10/24/2016,2216,Modesto,Stanislaus County,CA,95350,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,6
+URSUS-50-0200-2016-UTT,CA0500200,4/10/2016,639,Modesto,Stanislaus County,CA,95354,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,3
+URSUS-50-0400-2016-VWA,CA0500400,11/11/2016,1343,Oakdale,Stanislaus County,CA,95361,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-51-0200-2016-NWR,CA0510200,6/4/2016,150,Yuba City,Sutter County,CA,95991,TRUE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,2
+URSUS-51-0200-2016-XMC,CA0510200,10/23/2016,1917,Yuba City,Sutter County,CA,95991,TRUE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-52-0100-2016-HPQ,CA0520100,1/16/2016,624,Corning,Tehama County,CA,96021,FALSE,FALSE,FALSE,TRUE,Consensual Encounter / Public Contact / Flag Down,,2,1
+URSUS-52-0200-2016-AVC,CA0520200,3/14/2016,113,Red Bluff,Tehama County,CA,96080,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-54-0000-2016-BFP,CA0540000,3/25/2016,625,Tulare,Tulare County,CA,93274,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-54-0000-2016-GAY,CA0540000,4/7/2016,1300,Porterville,Tulare County,CA,93257,FALSE,FALSE,TRUE,TRUE,Crime in Progress / Investigating Suspicious Persons or Circumstances,,1,1
+URSUS-54-0000-2016-NDV,CA0540000,3/31/2016,800,Lindsay,Tulare County,CA,93247,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-54-0000-2016-TKF,CA0540000,11/30/2016,1430,Porterville,Tulare County,CA,93257,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-54-0000-2016-UFW,CA0540000,5/31/2016,1633,Earlimart,Tulare County,CA,93219,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-54-0000-2016-XQZ,CA0540000,9/9/2016,1738,Pixley,Tulare County,CA,93256,FALSE,FALSE,TRUE,TRUE,In Custody Event,In Transit,1,3
+URSUS-54-0500-2016-YDY,CA0540500,8/17/2016,2314,Porterville,Tulare County,CA,93257,FALSE,FALSE,TRUE,TRUE,Vehicle / Bike / Pedestrian Stop,,1,2
+URSUS-54-0600-2016-RRB,CA0540600,5/10/2016,1650,Tulare,Tulare County,CA,93274,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-54-0600-2016-ZTR,CA0540600,10/24/2016,1719,Tulare,Tulare County,CA,93274,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,4
+URSUS-54-0700-2016-BEE,CA0540700,5/26/2016,1330,Visalia,Tulare County,CA,93291,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-54-0700-2016-GCY,CA0540700,2/24/2016,2333,Visalia,Tulare County,CA,93277,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-54-0700-2016-NDJ,CA0540700,5/28/2016,1923,Visalia,Tulare County,CA,93292,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-54-0700-2016-PZE,CA0540700,5/3/2016,725,Visalia,Tulare County,CA,93292,FALSE,FALSE,FALSE,TRUE,Call for Service,,1,1
+URSUS-54-0700-2016-QMW,CA0540700,9/4/2016,1821,Visalia,Tulare County,CA,93291,TRUE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-56-0400-2016-FSY,CA0560400,2/16/2016,943,Oxnard,Ventura County,CA,93033,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-56-0400-2016-SNP,CA0560400,8/16/2016,2210,Oxnard,Ventura County,CA,93033,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-56-0400-2016-UVH,CA0560400,3/31/2016,1548,Oxnard,Ventura County,CA,93033,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-56-0500-2016-AFU,CA0560500,9/30/2016,49,Port Hueneme,Ventura County,CA,93041,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,4
+URSUS-56-0800-2016-GSD,CA0560800,6/17/2016,1851,Ventura,Ventura County,CA,93003,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-56-0900-2016-BNF,CA0560900,2/19/2016,121,Simi Valley,Ventura County,CA,93063,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-56-0900-2016-DEQ,CA0560900,6/5/2016,1000,Simi Valley,Ventura County,CA,93065,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,1
+URSUS-57-0400-2016-VVW,CA0570400,8/20/2016,516,West Sacramento,Yolo County,CA,95691,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,11
+URSUS-58-0000-2016-CTJ,CA0580000,5/10/2016,2016,Marysville,Yuba County,CA,95901,FALSE,FALSE,TRUE,TRUE,Consensual Encounter / Public Contact / Flag Down,,1,2
+URSUS-58-0000-2016-DJZ,CA0580000,8/2/2016,934,Marysville,Yuba County,CA,95901,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,3
+URSUS-58-0000-2016-NRZ,CA0580000,6/6/2016,1350,Marysville,Yuba County,CA,95901,FALSE,FALSE,TRUE,TRUE,"Pre-Planned Activity (arrest/search warrant, parole/probation search)",,1,1
+URSUS-58-0000-2016-WZY,CA0580000,11/3/2016,2135,Olivehurst,Yuba County,CA,95961,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
+URSUS-58-0100-2016-YAU,CA0580100,7/4/2016,2132,Marysville,Yuba County,CA,95901,FALSE,FALSE,TRUE,TRUE,Call for Service,,1,2
