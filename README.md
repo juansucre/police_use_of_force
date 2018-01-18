@@ -135,8 +135,11 @@ In San Joaquin County, nearly a third of use of force incidents resulted in deat
 - Jupyter notebook
 - ScikitLearn
 - Pandas
+- Folium
+- geocoder (https://pypi.python.org/pypi/geocoder/1.8.0)
 
 ## Acknowledgments
 - David Yerrington
 - Gus Ostow
 - Kevin Cho
+- Mike Vitoroulis
